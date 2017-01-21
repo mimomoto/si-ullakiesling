@@ -1,6 +1,7 @@
 +++
 title = "Kerstin Löffler"
 thumb = "kerstin-loeffler.jpg"
+team = true
 +++
 
 <img class="referentin" src="/referentinnen/kerstin-loeffler.jpg" alt="Kerstin Löffler" />

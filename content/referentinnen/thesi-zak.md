@@ -1,6 +1,7 @@
 +++
 title = "Thesi Zak"
 thumb = "thesi-zak.jpg"
+team = true
 +++
 
 <img class="referentin" src="/referentinnen/thesi-zak.jpg" alt="Thesi Zak" />

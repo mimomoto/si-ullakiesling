@@ -1,6 +1,7 @@
 +++
 title = "Dr. Andreas Knieß"
 thumb = "andreas-kniess.png"
+team = true
 +++
 
 <img class="referentin" src="/referentinnen/andreas-kniess.png" alt="Dr. Andreas Knieß" />

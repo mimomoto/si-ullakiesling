@@ -1,6 +1,7 @@
 +++
 title = "Susanne Tognino-Morgner"
 thumb = "susanne-tognino-morgner.jpg"
+team = true
 +++
 
 <img class="referentin" src="/referentinnen/susanne-tognino-morgner.jpg" alt="Susanne Tognino-Morgner" />

@@ -1,6 +1,7 @@
 +++
 title = "Matthias Bartscher"
 thumb = "matthias-bartscher.jpg"
+team = true
 +++
 
 <img class="referentin" src="/referentinnen/matthias-bartscher.jpg" alt="Matthias Bartscher" />

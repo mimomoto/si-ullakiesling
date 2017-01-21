@@ -1,6 +1,7 @@
 +++
 title = "Paul Mair"
 thumb = "paul-mair.jpg"
+team = true
 +++
 
 <img class="referentin" src="/referentinnen/paul-mair.jpg" alt="Paul Mair" />

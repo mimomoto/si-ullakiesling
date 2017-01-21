@@ -13,15 +13,27 @@
             <div class="panel-body">
               <div class="row">
                 {{ range .Data.Pages.ByPublishDate }}
-                  <div class="col-md-4">
-                     <h5 style="text-align: center">
-                      <a href="{{ .RelPermalink }}">
-                        <img class="face" src="/referentinnen/referentinnen-thumbs/{{ .Params.thumb }}" />
-                        <strong>{{ .Title | markdownify }}</strong>
-                      </a>
-                    </h5>
-                  </div>
+                  {{ if isset .Params "team" }}
+                    <div class="col-md-4">
+                       <h5 style="text-align: center">
+                        <a href="{{ .RelPermalink }}">
+                          <img class="face" src="/referentinnen/referentinnen-thumbs/{{ .Params.thumb }}" />
+                          <strong>{{ .Title | markdownify }}</strong>
+                        </a>
+                      </h5>
+                    </div>
+                  {{ end }}
                 {{ end }}
+              </div>
+              <div class="row">
+                <div class="col-md-4 col-md-push-4">
+                   <h5 style="text-align: center">
+                    <a href="/referentinnen/ulla-kiesling">
+                      <img class="face" src="/referentinnen/referentinnen-thumbs/ulla-kiesling.jpg" />
+                      <strong>Ulla Kiesling</strong>
+                    </a>
+                  </h5>
+                </div>
               </div>
             </div>
           </div>
