@@ -7,7 +7,7 @@ Andere Bundesländer - andere Fördermöglichkeiten.
 
 - [Überblick über Förderungen für ArbeitnehmerInnen](http://www.weiterbildung.at/service-fuer-suchende/foerderungen/foerderungen-fuer-arbeitnehmerinnen/)
 
-- [Welche Förderung trifft auf mich zu?](www.bildungsfoerderungen.at/abfrage.htm)
+- [Welche Förderung trifft auf mich zu?](http://www.bildungsfoerderungen.at/abfrage.htm)
 
 - [WAFF Bildungskonto](http://www.bildungsfoerderungen.at/details.php?uid=1) Gefördert werden Beschäftigte, geringfügig Beschäftigte, Neue Selbstständige; Bildungskarenz, Elternkarenz. Der Antrag kann ausschließlich nach Absolvierung der Aus- und Weiterbildung  spätestens drei Monate danach gestellt werden.
 
@@ -33,16 +33,16 @@ Andere Bundesländer - andere Fördermöglichkeiten.
 
 ### Bundesländer
 
-- Als AK Mitglied erhalten Sie in vielen Bundesländern Geld zur Teilnahme an ausgewählten Weiterbildungskursen. Auch Arbeitslose, NotstandshilfebezieherInnen, Lehrlinge, Eltern in Karenz, geringfügig Beschäftigte und freie DienstnehmerInnen können die Unterstützung in Anspruch nehmen. [Weitere Informationen dazu finden Sie hier.](www.arbeiterkammer.at/www-192-IP-1958.html)
+- Als AK Mitglied erhalten Sie in vielen Bundesländern Geld zur Teilnahme an ausgewählten Weiterbildungskursen. Auch Arbeitslose, NotstandshilfebezieherInnen, Lehrlinge, Eltern in Karenz, geringfügig Beschäftigte und freie DienstnehmerInnen können die Unterstützung in Anspruch nehmen. [Weitere Informationen dazu finden Sie hier.](http://www.arbeiterkammer.at/www-192-IP-1958.html)
 
-- Burgenland: Das [AMS unterstützt im Rahmen des Europäischen Sozialfonds (ESF)](www.bildungsfoerderungen.at/details.php?uid=128) Weiterbildungsmaßnahmen für spezifische Gruppen von Beschäftigten. Ziel ist es, einerseits die Beschäftigung von ArbeitnehmerInnen durch Qualifizierung zu sichern andererseits die Weiterbildungsaktivitäten für die Arbeitgeber zu erleichtern. Die Förderung erhalten kleine und mittlere Unternehmen mit einer Betriebsstätte im Burgenland.
+- Burgenland: Das [AMS unterstützt im Rahmen des Europäischen Sozialfonds (ESF)](http://www.bildungsfoerderungen.at/details.php?uid=128) Weiterbildungsmaßnahmen für spezifische Gruppen von Beschäftigten. Ziel ist es, einerseits die Beschäftigung von ArbeitnehmerInnen durch Qualifizierung zu sichern andererseits die Weiterbildungsaktivitäten für die Arbeitgeber zu erleichtern. Die Förderung erhalten kleine und mittlere Unternehmen mit einer Betriebsstätte im Burgenland.
 
-- Burgenland: [Die Bildungsförderung](www.bildungsfoerderungen.at/details.php?uid=9
+- Burgenland: [Die Bildungsförderung](http://www.bildungsfoerderungen.at/details.php?uid=9
 ) dient der Förderung der Teilnahme an Weiterbildungsmaßnahmen, die Qualifikationen vermitteln, die im Berufsleben zur Anwendung gelangen oder Voraussetzung für eine Höherqualifizierung (z.B. Berufsreifeprüfung, Studienberechtigungsprüfung, Hauptschulabschlussprüfung, etc.) sind.
 Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate nach Beendigung der Weiterbildung gestellt werden.
 
-- Niederösterreich: Das Land gewährt NÖ [ArbeitnehmerInnen eine Bildungsförderung](www.noe.gv.at/Bildung/Aus-und-Weiterbildung/Bildungsfoerderung/Bildungsfoerderung.html) in der Höhe von 50 % bzw. 80 % der Kurskosten (bis zu maximal € 2.640,-- innerhalb von 6 Jahren ab Erstantragstellung) für berufsspezifische Weiterbildung, die zur Arbeitsplatzsicherung dient.
+- Niederösterreich: Das Land gewährt NÖ [ArbeitnehmerInnen eine Bildungsförderung](http://www.noe.gv.at/Bildung/Aus-und-Weiterbildung/Bildungsfoerderung/Bildungsfoerderung.html) in der Höhe von 50 % bzw. 80 % der Kurskosten (bis zu maximal € 2.640,-- innerhalb von 6 Jahren ab Erstantragstellung) für berufsspezifische Weiterbildung, die zur Arbeitsplatzsicherung dient.
 
-- Kärnten: [Auf diesem Informationsportal](www.wissenslandkarte.ktn.gv.at/36898_DE) haben Sie einen vielfältigen Zugang zu Angeboten der Aus- und Weiterbildung. Die Angebote stellen die in der „Kärntner Bildungsförderung“ anerkannten Bildungsträger laufend aktualisiert für Sie zur Verfügung. Haben Sie ein Angebot gefunden, bietet Ihnen das Portal die Möglichkeit, mit einem Klick sofort zum Online-Förderantrag zu gelangen.
+- Kärnten: [Auf diesem Informationsportal](http://www.wissenslandkarte.ktn.gv.at/36898_DE) haben Sie einen vielfältigen Zugang zu Angeboten der Aus- und Weiterbildung. Die Angebote stellen die in der „Kärntner Bildungsförderung“ anerkannten Bildungsträger laufend aktualisiert für Sie zur Verfügung. Haben Sie ein Angebot gefunden, bietet Ihnen das Portal die Möglichkeit, mit einem Klick sofort zum Online-Förderantrag zu gelangen.
 
-- Tirol: [Bildungsgeld-update](www.tirol.gv.at/themen/wirtschaft-und-tourismus/arbeit/arbeitsmarktfoerderung/bildungsgeld/) - Es werden Kosten für Schulungsmaßnahmen zur Aus- und Weiterbildung gefördert, die von anerkannten Bildungsträgern angeboten werden.
+- Tirol: [Bildungsgeld-update](http://www.tirol.gv.at/themen/wirtschaft-und-tourismus/arbeit/arbeitsmarktfoerderung/bildungsgeld/) - Es werden Kosten für Schulungsmaßnahmen zur Aus- und Weiterbildung gefördert, die von anerkannten Bildungsträgern angeboten werden.
