@@ -6,7 +6,7 @@ author = "Ulla Kiesling"
 description = ""
 
 pluralizeListTitles = false
-
+publishDir = "docs"
 
 ## Main Menu
 [[menu.main]]
