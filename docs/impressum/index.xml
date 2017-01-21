@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impressum on „Sensorische Integration im Dialog” nach Ulla Kiesling®</title>
-    <link>http://si-ullakiesling.info/impressum/index.xml</link>
+    <link>https://www.si-ullakiesling.info/impressum/index.xml</link>
     <description>Recent content in Impressum on „Sensorische Integration im Dialog” nach Ulla Kiesling®</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <atom:link href="http://si-ullakiesling.info/impressum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.si-ullakiesling.info/impressum/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
