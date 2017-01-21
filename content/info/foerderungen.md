@@ -2,8 +2,9 @@
 title = "Förderungen"
 +++
 
-![In größtmöglicher Sicherheit mit „Sensorischer Integration im Dialog" nach Ulla Kiesling®](/si-3.jpg)
-
+<div class="rounded-big">
+  <img src="/si-3.jpg" alt="In größtmöglicher Sicherheit mit „Sensorischer Integration im Dialog" nach Ulla Kiesling®" />
+</div>
 
 Informieren Sie sich über verschiedene Förderungsmöglichkeiten rechtzeitig vor dem Lehrgang, damit Sie keine Fristen versäumen.
 Andere Bundesländer - andere Fördermöglichkeiten.

@@ -8,7 +8,9 @@ Ist eine Weiterbildung, aufbauened auf grundlegender pädagogischer oder therape
 
 Namhafte charismatische Referenten verknüpfen jahrzehnte lange eigene praktische Erfahrungen mit neuesten wissenschaftlichen Erkenntnissen über die Bedeutung des "Zusammenspiel der Sinne" (Sensorische Integration) für die menschliche Entwicklung.
 
-![„Sensorische Integration im Dialog" nach Ulla Kiesling®](/si-1.jpg)
+<div class="rounded-big">
+  <img src="/si-1.jpg" alt="„Sensorische Integration im Dialog" nach Ulla Kiesling®" />
+</div>
 
 Der Name Ulla Kiesling und die damit verbundene qualitative Arbeit sind weitgehend, inzwischen auch international bekannt. Sie prägte den Begriff „Sensorische Integration im Dialog” erstmalig und einzigartig in der ganzheitlichen Wahrnehmungsförderung unsere Problemkinder vor über 30 Jahren! (Siehe auch [Literatur: Ulla Kiesling](/info/links)).
 

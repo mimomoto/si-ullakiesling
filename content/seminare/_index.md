@@ -2,8 +2,9 @@
 title = "Seminare und Vorträge"
 +++
 
-![Spielerisch und ganz von selbst, mit „Sensorischer Integration im Dialog" nach Ulla Kiesling®](/si-2.jpg)
-
+<div class="rounded-big">
+  <img src="/si-2.jpg" alt="Spielerisch und ganz von selbst, mit „Sensorischer Integration im Dialog" nach Ulla Kiesling®" />
+</div>
 
 ### Erstmal auch als Einzel-Seminare zu besuchen!
 - „Sensorische Integration im Dialog" nach Ulla Kiesling®” in Ried, Österreich

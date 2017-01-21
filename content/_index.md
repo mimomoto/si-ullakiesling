@@ -6,8 +6,9 @@ Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten 
 
 Sie arbeitet mit der Methode der „Sensorischen Integration im Dialog", deren Ziel es ist, das Zusammenspiel aller Sinne zu fördern und damit ein physisches und psychisches Gesamtgleichgewicht herzustellen.
 
-![„Sensorische Integration im Dialog" nach Ulla Kiesling® fördert physisches und psychisches Gesamtgleichgewicht](/si-5.jpg)
-
+<div class="rounded-big">
+  <img src="/si-5.jpg" alt="„Sensorische Integration im Dialog" nach Ulla Kiesling® fördert physisches und psychisches Gesamtgleichgewicht" />
+</div>
 
 1984 übersetzte Dr. Inge Flehmig, das Buch "Bausteine der kindlichen Entwicklung" von Dr. Jean Ayres. Durch die Mitarbeit an der Übersetzung bekam Ulla Kiesling viele Antworten. Sie verknüpfte es mit Ihrer vielfältigen Arbeit im bewegungstherapeutischen Bereich und nannte Ihre Methode „Sensorische Integration im Dialog" nach Ulla Kiesling®.
 
@@ -17,7 +18,9 @@ Somit das Kind mit sich selbst in den Dialog kommt. Es beinhaltet auch, die Elte
 
 > "So wie die Forschung ständig sich wandelnde Konzepte hervorbringt, so wird auch die Theorie einer häufigen Revision bedürfen."<br>–*Anna Jean Ayres*
 
-![„Sensorische Integration im Dialog" nach Ulla Kiesling® fördert den Dialog mit dem Kind](/si-6.jpg)
+<div class="rounded-big">
+  <img src="/si-6.jpg" alt="„Sensorische Integration im Dialog" nach Ulla Kiesling® fördert den Dialog mit dem Kind" />
+</div>
 
 #### Ein Beispiel
 
@@ -29,5 +32,6 @@ Bei empfindlicher Haut kann eindeutig, großflächig vermittelter Druck durch di
 
 [Lesen Sie einen Vortrag von Ulla Kiesling](/info/kindheit-hilfe) aus dem Buch: Jochen und Margarita Klein, Verlag Modernes Lernen 2003, "Bindung, Selbstregulation und ADS".
 
-
-![Ulla Kiesling und ein Kind in „Sensorischer Integration im Dialog" nach Ulla Kiesling®](/si-4.jpg)
+<div class="rounded-big">
+  <img src="/si-4.jpg" alt="Ulla Kiesling und ein Kind in „Sensorischer Integration im Dialog" nach Ulla Kiesling®" />
+</div>
