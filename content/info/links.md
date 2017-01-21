@@ -63,6 +63,8 @@ title = "Links und Literatur"
 
 - [Kurier](http://kurier.at/lebensart/gesundheit/konzentrations-oder-verhaltensstoerungen-hilfe-fuer-zappelphilipp/5.892.283/) - Bericht von Frau Mag. Ingrid Teufl nach einem Interview mit Frau Ulla Kiesling: „Hilfe für Zappelphilipp - Wenn alle Sinne im Gleichgewicht sind, entwickeln sich Kinder richtig. Das ist erlernbar.
 
+<a name="literatur" />
+
 ### Literatur
 
   - [Kiesling, Ulla: „Sensorische Integration im Dialog”](http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&view=article&id=30:buch-si&catid=2:uncategorised&Itemid=115)
@@ -73,5 +75,29 @@ title = "Links und Literatur"
 
   - [Kiesling, Ulla: „Praxis 'Sensorische Integration im Dialog' nach Ulla Kiesling®”](http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&view=article&id=31:buch-praxis&catid=2:uncategorised&Itemid=115)
     - Dortmund 2008, verlag modernes lernen
+
+
+<div class="row">
+  <div class="col-md-4">
+    <img class="book" src="/books/ulla-kiesling-buch-1.jpg" />
+  </div>
+  <div class="col-md-4">
+    <img class="book" src="/books/ulla-kiesling-buch-2.jpg" />
+  </div>
+  <div class="col-md-4">
+    <img class="book" src="/books/ulla-kiesling-buch-3.jpg" />
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4">
+    <img class="book" src="/books/ulla-kiesling-buch-4.jpg" />
+  </div>
+  <div class="col-md-4">
+    <img class="book" src="/books/ulla-kiesling-buch-5.jpg" />
+  </div>
+
+</div>
+
+
 
 <img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-4.jpg" />

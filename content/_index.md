@@ -2,7 +2,7 @@
 title = "„Sensorische Integration im Dialog” nach Ulla Kiesling®"
 +++
 
-Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und physisch "normal" entwickeln kann, wenn seine Sinne im Gleichgewicht sind.
+[Ulla Kieslings](/referentinnen/ulla-kiesling) therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und physisch "normal" entwickeln kann, wenn seine Sinne im Gleichgewicht sind.
 
 Sie arbeitet mit der Methode der „Sensorischen Integration im Dialog", deren Ziel es ist, das Zusammenspiel aller Sinne zu fördern und damit ein physisches und psychisches Gesamtgleichgewicht herzustellen.
 
@@ -10,7 +10,7 @@ Sie arbeitet mit der Methode der „Sensorischen Integration im Dialog", deren Z
   <img src="/si-5.jpg" alt="„Sensorische Integration im Dialog" nach Ulla Kiesling® fördert physisches und psychisches Gesamtgleichgewicht" />
 </div>
 
-1984 übersetzte Dr. Inge Flehmig, das Buch "Bausteine der kindlichen Entwicklung" von Dr. Jean Ayres. Durch die Mitarbeit an der Übersetzung bekam Ulla Kiesling viele Antworten. Sie verknüpfte es mit Ihrer vielfältigen Arbeit im bewegungstherapeutischen Bereich und nannte Ihre Methode „Sensorische Integration im Dialog" nach Ulla Kiesling®.
+1984 übersetzte Dr. Inge Flehmig, das Buch "Bausteine der kindlichen Entwicklung" von Dr. Jean Ayres. Durch die Mitarbeit an der Übersetzung bekam Ulla Kiesling viele Antworten. Sie verknüpfte es mit Ihrer vielfältigen Arbeit im bewegungstherapeutischen Bereich und nannte Ihre Methode [„Sensorische Integration im Dialog" nach Ulla Kiesling®](/lehrgang).
 
 Im Dialog meint, dass nicht der Therapeut dem Kind den Weg zeigt, sondern ihm hilft, seinen eigenen Weg zu finden.
 

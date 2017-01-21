@@ -12,7 +12,7 @@ Namhafte charismatische Referenten verknüpfen jahrzehnte lange eigene praktisch
   <img src="/si-1.jpg" alt="„Sensorische Integration im Dialog" nach Ulla Kiesling®" />
 </div>
 
-Der Name Ulla Kiesling und die damit verbundene qualitative Arbeit sind weitgehend, inzwischen auch international bekannt. Sie prägte den Begriff „Sensorische Integration im Dialog” erstmalig und einzigartig in der ganzheitlichen Wahrnehmungsförderung unsere Problemkinder vor über 30 Jahren! (Siehe auch [Literatur: Ulla Kiesling](/info/links)).
+Der Name [Ulla Kiesling](/referentinnen/ulla-kiesling) und die damit verbundene qualitative Arbeit sind weitgehend, inzwischen auch international bekannt. Sie prägte den Begriff „Sensorische Integration im Dialog” erstmalig und einzigartig in der ganzheitlichen Wahrnehmungsförderung unsere Problemkinder vor über 30 Jahren! (Siehe auch [Literatur: Ulla Kiesling](/info/links#literatur)).
 
 TeilnehmerInnen bzw. AbsolventInnen des Lehrgangs steht in Absprache vereinzelnt die Möglichkeit offen, in der Praxis von Frau Kiesling in Hamburg & Wien zu hospitieren.
 
