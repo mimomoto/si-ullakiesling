@@ -22,4 +22,4 @@ Gleichzeitig könnte es an einer Überempfindlichkeit der Haut leiden, was sich 
 
 Bei empfindlicher Haut kann eindeutig, großflächig vermittelter Druck durch die Haut (Tiefeninformation), wenn er mit Vertrauen und im Dialog angeboten wird, als angenehm angenommen werden. Die "berührungsüberempfindliche" Haut wird gewissermaßen sediert.
 
-[Lesen Sie einen Vortrag von Ulla Kiesling](http://web.archive.org/web/20161005045350/http://si-ullakiesling.info/index.php?option=com_content&view=article&id=17:si-bericht&catid=2:uncategorised&Itemid=101) aus dem Buch: Jochen und Margarita Klein, Verlag Modernes Lernen 2003, "Bindung, Selbstregulation und ADS".
+[Lesen Sie einen Vortrag von Ulla Kiesling](/info/kindheit-hilfe) aus dem Buch: Jochen und Margarita Klein, Verlag Modernes Lernen 2003, "Bindung, Selbstregulation und ADS".
