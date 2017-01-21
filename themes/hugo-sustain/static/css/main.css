@@ -10,13 +10,28 @@ body {
 }
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  padding-bottom: 50px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
   margin: 0 auto -65px;
   /* Pad bottom by footer height */
   /*padding: 0 0 60px;*/
+}
+
+
+img {
+  max-width: 100%;
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+h3 {
+  padding-top: 13px;
+}
+
+h4 {
+  padding-top: 13px;
 }
 
 /* Navbar
@@ -164,7 +179,7 @@ body {
   font-size: 18px;
 }
 
-/* Footer 
+/* Footer
 -------------------------------------------------- */
 
 .footer {
@@ -180,5 +195,5 @@ div.footer{
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/
