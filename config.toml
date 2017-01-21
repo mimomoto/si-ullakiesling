@@ -15,7 +15,7 @@ publishDir = "docs"
   weight = 100
   url = "/lehrgang/"
 [[menu.main]]
-  name = "Referentinnen"
+  name = "ReferentInnen"
   weight = 200
   identifier = "referentinnen"
   url = "/referentinnen/"

@@ -1,5 +1,6 @@
 +++
 title = "Thesi Zak"
+thumb = "thesi-zak.jpg"
 +++
 
 <img class="referentin" src="/referentinnen/thesi-zak.jpg" alt="Thesi Zak" />
@@ -13,3 +14,7 @@ title = "Thesi Zak"
 - Buchautorin (2008)
 
 - Seit 2002 als selbstständige, mobile Motopädagogin und Motogeragogin in der psychomotorischen Entwicklungsbegleitung mit Menschen zwischen 3 und 103 Jahren, in Kindergärten, Schulen, Behinderteninstitutionen, Pensionistenclubs sowie Pflege- und Pensionistenheimen sowie in der Erwachsenen Fort- und Weiterbildung tätig
+
+#### Kontakt
+
+Email: [thesi@motopaedagogik.org](mailto:thesi@motopaedagogik.org)

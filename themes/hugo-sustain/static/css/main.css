@@ -27,9 +27,21 @@ img {
   border: 0;
 }
 
+.face {
+  margin: auto auto;
+  border-radius: 100%;
+  display: block;
+}
+
+.photo-big {
+  border-radius: 40px/50px;
+}
+.center-block {float: none !important}
+
 .referentin {
   float: right;
   padding: 0 0 20px 20px;
+  border-radius: 60px;
 }
 
 

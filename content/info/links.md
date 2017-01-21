@@ -73,3 +73,5 @@ title = "Links und Literatur"
 
   - [Kiesling, Ulla: „Praxis 'Sensorische Integration im Dialog' nach Ulla Kiesling®”](http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&view=article&id=31:buch-praxis&catid=2:uncategorised&Itemid=115)
     - Dortmund 2008, verlag modernes lernen
+
+<img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-4.jpg" />

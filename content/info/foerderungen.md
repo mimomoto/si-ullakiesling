@@ -50,3 +50,6 @@ Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate n
 - Kärnten: [Auf diesem Informationsportal](http://www.wissenslandkarte.ktn.gv.at/36898_DE) haben Sie einen vielfältigen Zugang zu Angeboten der Aus- und Weiterbildung. Die Angebote stellen die in der „Kärntner Bildungsförderung“ anerkannten Bildungsträger laufend aktualisiert für Sie zur Verfügung. Haben Sie ein Angebot gefunden, bietet Ihnen das Portal die Möglichkeit, mit einem Klick sofort zum Online-Förderantrag zu gelangen.
 
 - Tirol: [Bildungsgeld-update](http://www.tirol.gv.at/themen/wirtschaft-und-tourismus/arbeit/arbeitsmarktfoerderung/bildungsgeld/) - Es werden Kosten für Schulungsmaßnahmen zur Aus- und Weiterbildung gefördert, die von anerkannten Bildungsträgern angeboten werden.
+
+
+<img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-3.jpg" />

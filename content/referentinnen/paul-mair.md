@@ -1,5 +1,6 @@
 +++
 title = "Paul Mair"
+thumb = "paul-mair.jpg"
 +++
 
 <img class="referentin" src="/referentinnen/paul-mair.jpg" alt="Paul Mair" />
@@ -9,3 +10,7 @@ title = "Paul Mair"
 - Dipl. Shiatsupraktiker und qualified senior teacher of Shiatsu
 - Diplom in Traditioneller Chinesischer Medizin und Akupunktur
 - Geschäftsführer: Bewusstseinsquelle Therapie und Shiatsu GmbH
+
+#### Kontakt
+
+Email: [p.mair@bewusstseinsquelle.at](mailto:p.mair@bewusstseinsquelle.at)

@@ -1,0 +1,33 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      <!-- Header -->
+      {{ partial "header" . }}
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong>ReferentInnen</strong>
+          </h3>
+        </div>
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <div class="row">
+                {{ range .Data.Pages.ByPublishDate }}
+                  <div class="col-md-4">
+                     <h5 style="text-align: center">
+                      <a href="{{ .RelPermalink }}">
+                        <img class="face" src="/referentinnen/referentinnen-thumbs/{{ .Params.thumb }}" />
+                        <strong>{{ .Title | markdownify }}</strong>
+                      </a>
+                    </h5>
+                  </div>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    {{ partial "footer" . }}
+  </body>
+</html>

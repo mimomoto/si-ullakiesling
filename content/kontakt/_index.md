@@ -14,3 +14,5 @@ title = "Kontakt"
 - Anfragen zur Kinderbegutachtung, „Sensorische Integration im Dialog" nach Ulla Kiesling® und Intensivwochen in Wien: +43 660 4666888
 
 - Für Kinderbegutachtung in Ried, kontaktieren Sie Ulla Kiesling persönlich.
+
+<img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-9.jpg" />

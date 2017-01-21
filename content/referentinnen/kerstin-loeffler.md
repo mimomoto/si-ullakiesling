@@ -1,5 +1,6 @@
 +++
 title = "Kerstin Löffler"
+thumb = "kerstin-loeffler.jpg"
 +++
 
 <img class="referentin" src="/referentinnen/kerstin-loeffler.jpg" alt="Kerstin Löffler" />
@@ -11,3 +12,7 @@ title = "Kerstin Löffler"
 - Beratung in Konfliktsituationen und Pädagogische Beratung für Eltern in eigener Praxis
 - Referentin an der Pädagogischen Hochschule Bgld. in den Bereichen Kommunikation und Persönlichkeitsentwicklung
 - Verein MOVE – Bewegungsangebote für 3 bis 12 Jährige, Entwicklungsbegleitung im Wasser, Ferienwochen für Kinder, Projekttage für Schulen sowie Fortbildungen für PädagogInnen
+
+#### Kontakt
+
+Email: [kerstin@movefant.at](mailto:kerstin@movefant.at)

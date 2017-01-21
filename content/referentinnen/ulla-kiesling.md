@@ -1,5 +1,6 @@
 +++
 title = "Ulla Kiesling"
+thumb = "ulla-kiesling.jpg"
 +++
 
 <img class="referentin" src="/referentinnen/ulla-kiesling.jpg" alt="Ulla Kiesling" />
@@ -12,3 +13,18 @@ title = "Ulla Kiesling"
 - Autorin
 - internationale Lehrtätigkeit seit über 30 Jahren: „Sensorische Intergration in Dialog” nach Ulla Kiesling®
 - [Zu Ulla Kieslings vollständiger Vita [PDF]](/Ulla-Kiesling-CV.pdf)
+
+
+<img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-1.jpg" />
+<img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-6.jpg" />
+<img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-7.jpg" />
+
+#### Kontakt
+
+Ulla Kiesling ist ausschließlich für Terminabsprachen und ein- bis fünftägige Seminare telefonisch persönlich erreichbar (Montags und Mittwochs zwischen 7 - 8 Uhr in der Früh).
+
+Terminabsprache zur Motodiagnostik und Therapie in Deutschland: +49 151 59204122
+
+Anfragen zur Kinderbegutachtung, „Sensorische Integration im Dialog" nach Ulla Kiesling® und Intensivwochen in Wien: +43 660 4666888
+
+Für Kinderbegutachtung in Ried, kontaktieren Sie Ulla Kiesling persönlich.

@@ -47,3 +47,6 @@ Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
 - Begrenzte Teilnehmerzahl, bitte rechtzeitig anmelden! Die Anmeldungen werden nach Eingangsdatum berücksichtigt.
 - [Lehrplan: Termine und Themen (PDF)](/download/Termine-Ried-2016.pdf)
 - [Infofolder (PDF)](/download/Folder-Ried-2016.pdf)
+
+
+<img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-5.jpg" />
