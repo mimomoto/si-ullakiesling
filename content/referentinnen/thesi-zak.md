@@ -2,6 +2,8 @@
 title = "Thesi Zak"
 +++
 
+<img class="referentin" src="/referentinnen/thesi-zak.jpg" alt="Thesi Zak" />
+
 - Jahrgang 1970, lebt in Wien, verheiratet, fünf Kinder
 
 - Kindergärtnerin und Horterzieherin, Didaktik und Praxislehrerin an der Bildungsanstalt für Kindergartenpädagogik; Motopädagogin und Motogeragogin; Erwachsenenbildung, Referentin an der pädagogischen Hochschule Wien, Vortragende an zahlreichen Veranstaltungen im In- und Ausland zum Thema Motopädagogik und Motogeragogik

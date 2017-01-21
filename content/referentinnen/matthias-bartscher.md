@@ -2,6 +2,9 @@
 title = "Matthias Bartscher"
 +++
 
+<img class="referentin" src="/referentinnen/matthias-bartscher.jpg" alt="Matthias Bartscher" />
+
+
 - praktische Beratungstätigkeit in einer Erziehungsberatungsstelle
 - Entwicklung und Gründung der Elternschule Hamm e.V.
 - freiberufliche Tätigkeit in der Weiterbildung pädagogischer Fachkräfte in Jugendhilfe und Schule mit dem Schwerpunkt „Bildungs- und Erziehungspartnerschaft zwischen Fachkräften und Eltern in Bildungseinrichtungen”

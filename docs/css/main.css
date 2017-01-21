@@ -27,6 +27,10 @@ img {
   border: 0;
 }
 
+.referentin {
+  float: right;
+}
+
 .rounded-big img {
   border-radius: 40px/50px;
 }

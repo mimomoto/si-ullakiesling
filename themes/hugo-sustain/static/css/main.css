@@ -27,6 +27,12 @@ img {
   border: 0;
 }
 
+.referentin {
+  float: right;
+  padding: 0 0 20px 20px;
+}
+
+
 .rounded-big img {
   border-radius: 40px/50px;
 }

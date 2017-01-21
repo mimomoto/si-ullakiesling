@@ -2,6 +2,8 @@
 title = "Kerstin Löffler"
 +++
 
+<img class="referentin" src="/referentinnen/kerstin-loeffler.jpg" alt="Kerstin Löffler" />
+
 - Sonderschul-, Volksschul- und Schwerhörigenpädagogin; Freizeitpädagogin, Montessoripädagogin, Mediatorin, Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
 - Mehrere Jahre tätig als Pädagogin in Sonderschul-, Integrations- und Vorschulklassen
 - Tätigkeit an einer Beratungsstelle mit den Schwerpunkten Pädagogische Begleitung von Kindern (5-10) und Frühförderung (0-3)

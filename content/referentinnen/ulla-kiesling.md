@@ -2,6 +2,8 @@
 title = "Ulla Kiesling"
 +++
 
+<img class="referentin" src="/referentinnen/ulla-kiesling.jpg" alt="Ulla Kiesling" />
+
 - staatlich geprüfte Sportlehrerin
 - staatlich geprüfte Motopädin / Mototherapeutin
 - Feldenkrais Practitioner
