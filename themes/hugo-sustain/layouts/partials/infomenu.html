@@ -1,5 +1,14 @@
-{{ if .Site.Menus.info }}
-  {{ range sort .Site.Menus.info }}
-  &emsp;&emsp;<a href="{{ .URL }}">{{ .Name }}</a>&emsp;&emsp;
+<p style="padding-bottom: 5px;">
+  {{ if .Site.Menus.main }}
+    {{ range sort .Site.Menus.main }}
+    &emsp;&emsp;<a href="{{ .URL }}">{{ .Name }}</a>&emsp;&emsp;
+    {{ end }}
   {{ end }}
-{{ end }}
+</p>
+<p>
+  {{ if .Site.Menus.info }}
+    {{ range sort .Site.Menus.info }}
+    &emsp;&emsp;<a href="{{ .URL }}">{{ .Name }}</a>&emsp;&emsp;
+    {{ end }}
+  {{ end }}
+</p>

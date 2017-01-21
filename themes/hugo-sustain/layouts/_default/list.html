@@ -9,8 +9,8 @@
             <div class="panel-body">
             {{ range .Data.Pages.ByPublishDate }}
               <div class="row">
-                <div class="col-md-8 col-md-push-3">
-                   <h5 style="text-align: left">
+                <div class="col-md-12">
+                   <h5 style="text-align: center">
                     <strong><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></strong>
                   </h5>
                 </div>
