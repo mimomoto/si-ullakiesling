@@ -1,0 +1,26 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      <!-- Header -->
+      {{ partial "header" . }}
+      <div class="container">
+        <h3>{{ .Title | markdownify }}</h3>
+          <div class="panel panel-default">
+            <div class="panel-body">
+            {{ range .Data.Pages.ByPublishDate }}
+              <div class="row">
+                <div class="col-md-8 col-md-push-3">
+                   <h5 style="text-align: left">
+                    <strong><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></strong>
+                  </h5>
+                </div>
+              </div>
+            {{ end }}
+            </div>
+          </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    {{ partial "footer" . }}
+  </body>
+</html>

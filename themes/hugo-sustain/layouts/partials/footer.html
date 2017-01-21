@@ -1,0 +1,15 @@
+<footer>
+  <div id="footer">
+    <div class="container">
+      {{ partial "infomenu" . }}
+
+      <p class="text-muted">
+        {{ .Site.Title | markdownify }} ist ein eingetragenes Markenzeichen.
+        &emsp;&middot;&emsp;
+        <a href="/impressum">Impressum</a>
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+{{ partial "js" . }}

@@ -1,0 +1,5 @@
+{{ if .Content }}
+  {{ .Render "single" }}
+{{ else }}
+  {{ .Render "list" }}
+{{ end }}

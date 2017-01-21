@@ -1,0 +1,49 @@
+languageCode = "de-DE"
+title = "„Sensorische Integration im Dialog” nach Ulla Kiesling®"
+baseurl = "http://si-ullakiesling.info/"
+theme = "hugo-sustain"
+author = "Ulla Kiesling"
+description = ""
+
+pluralizeListTitles = false
+
+
+## Main Menu
+[[menu.main]]
+  name = "Der Lehrgang"
+  identifier = "lehrgang"
+  weight = 100
+  url = "/lehrgang/"
+[[menu.main]]
+  name = "Referentinnen"
+  weight = 200
+  identifier = "referentinnen"
+  url = "/referentinnen/"
+[[menu.main]]
+  name = "Seminare & Vorträge"
+  identifier = "seminare"
+  weight = 300
+  url = "/seminare/"
+
+
+## Info Menu
+[[menu.info]]
+  name = "Förderungen"
+  weight = 100
+  identifier = "foerderungen"
+  url = "/info/foerderungen/"
+[[menu.info]]
+  name = "Stimmen"
+  identifier = "stimmen"
+  weight = 200
+  url = "/stimmen/"
+[[menu.info]]
+  name = "Links & Literatur"
+  identifier = "links"
+  weight = 200
+  url = "/info/links/"
+[[menu.info]]
+  name = "Kontakt"
+  identifier = "kontakt"
+  weight = 300
+  url = "/kontakt/"

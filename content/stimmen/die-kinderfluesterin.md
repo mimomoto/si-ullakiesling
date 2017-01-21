@@ -1,0 +1,17 @@
++++
+title = "Die „Kinderflüsterin” — Meine Begegnung mit Ulla Kiesling"
++++
+
+Seit gut einem Monat stehen bei uns zu Hause im Stall zwei Pferde. Es sind junge Pferde und Schlüsseljahre stehen uns bevor, Bodenarbeit und Das Zureiten. Bücher zu diesem Thema stapeln sich auf den Nachtkästen meiner Frau und mir und natürlich haben wir von „Pferdeflüsterern” gelesen und dem bekannten Monty Roberts, der Pferde mit einer besonderen Methode beruhigen und aus einer Hemmung oder schweren Störung heraus begleiten kann.
+
+Es heißt, Kinder und Pferde hätten eine ähnliche Seele, ich weiß es nicht, aber meine langjährige Arbeit mit Kindern aller Altersstufen lassen mich Parallelen erkennen. Beide brauchen lange, bis sie ausgewachsen und ihren Möglichkeiten entsprechend voll belastbar sind. Beide sind eigen-willig und grundsätzlich bereit sich begleiten zu lassen, lernwillig und … falscher Umgang mit ihnen und Versäumnisse sensibler Phasen in der Entwicklung können zu schweren Störungen in der Entfaltung sowohl der Persönlichkeit, als auch des Charakters führen. Mit diesen Erfahrungen aus meiner pädagogischen Arbeit habe ich mich in den Vortrag von Frau Ulla Kiesling gesetzt. Unter dem Titel: Die „Melodie' des Kindes wahrnehmen — Wahrnehmungsschwächen als Ursache für Lern- und Verhaltensschwierigkeiten bei Kindern”, erwartete ich, erstmals tieferen Einblick in die Thematik der Sensorischen Integration im Dialog zu bekommen. Ulla Kiesling arbeitet in Vorträgen und Seminaren gerne mit Videosequenzen aus ihrer praktischen Arbeit. So konnte ich nach einer theoretischen, aber sehr lebendigen Einführung in die Schwerpunkte des Themas auch Einblick in die Arbeit an und mit dem Kind bekommen. Trotz der späten Stunde und einer gewissen Müdigkeit, löste vieles von dem Gesagten und Gesehenen Betroffenheit bei mir aus. Es ist die Art, wie Ulla Kiesling Kindern mit schweren Wahrnehmungsstörungen begegnet und sie begleitet. Und hauptsächlich berührten mich die Sprache, die Art des Dialoges zwischen ihr und den Kindern.
+
+Sprache ist ein „Um und Auf” in der Arbeit mit Kindern, wenn sie erfolgreich und authentisch sein soll. Wie und wie viel wir reden, ob es Plappern, Reden oder Mitteilen ist, hat große Bedeutung für unseren Umgang mit Kindern. Und letztlich verrät die Sprache dem Kind viel über uns. Kinder können zwischen den Zeilen hören, vergleichen Worte mit Handlungen und wissen sofort, ob dieser Erwachsenen gut tut oder nicht.
+
+Das am Vortragsabend gezeigte Video bestätigte mir, dass diese Haltung Kindern gegenüber gut und richtig ist, eröffnete mir aber in einer selten erlebten Deutlichkeit, wie wirkungsvoll und heilsam wenige aber glasklare Worte, verschmolzen mit entsprechenden Handlungen sein können. Das was ich sah, kannte ich von den Pferdeflüsterern. Und mit einem Mal wurde mir bewusst, dass dieses Minimum an Sprache, Stimme und Handlung Heilung und große Entfaltung ermöglichen kann. Ulla Kiesling „flüstert” mit den Kindern. Nicht weil sie nicht weiß, sondern, weil sie allen Möglichkeiten, die Kinder auf ihrem Weg brauchen, Einlass gewähren und Raum geben will.
+
+Nein, Ulla Kiesling ist nicht die stille und unnahbare Referentin gewesen, sie redet gerne und viel, was ihre Sprachkultur mit den Kindern, die ihr anvertraut werden, nur noch glaubwürdiger macht.
+
+Der Abend, der Vortrag, hat mir gut getan und mich neugierig gemacht auf mehr von all dem, was Frau Kiesling mitzuteilen hat. Wir werden sie wieder nach Innsbruck holen!
+
+*G.R. Volderwald*

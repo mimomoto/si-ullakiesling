@@ -1,0 +1,16 @@
++++
+title = "Kontakt"
++++
+
+- Anfragen für Seminare in Hamburg und Wien an [info@si-ullakiesling.info](mailto:info@si-ullakiesling.info)
+- Anfragen und Anmeldung für den Lehrgang Ried 2014:
+  - Frau Kornelia Zauner, Lehrgangsleitung
+  - Telefon: +43(0)7752 82 7 42
+  - E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
+
+- Ulla Kiesling ist ausschließlich für Terminabsprachen und ein- bis fünftägige Seminare telefonisch persönlich erreichbar (Montags und Mittwochs zwischen 7 - 8 Uhr in der Früh).
+
+- Terminabsprache zur Motodiagnostik und Therapie in Deutschland: +49 151 59204122
+- Anfragen zur Kinderbegutachtung, „Sensorische Integration im Dialog" nach Ulla Kiesling® und Intensivwochen in Wien: +43 660 4666888
+
+- Für Kinderbegutachtung in Ried, kontaktieren Sie Ulla Kiesling persönlich.

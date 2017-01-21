@@ -1,0 +1,5 @@
+{{ if .Site.Menus.info }}
+  {{ range sort .Site.Menus.info }}
+  &emsp;&emsp;<a href="{{ .URL }}">{{ .Name }}</a>&emsp;&emsp;
+  {{ end }}
+{{ end }}
