@@ -1,6 +1,6 @@
 languageCode = "de-DE"
 title = "„Sensorische Integration im Dialog” nach Ulla Kiesling®"
-baseurl = "http://si-ullakiesling.info/"
+baseurl = "https://www.si-ullakiesling.info/"
 theme = "hugo-sustain"
 author = "Ulla Kiesling"
 description = ""
