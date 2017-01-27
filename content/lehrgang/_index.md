@@ -4,7 +4,7 @@ title = "Der Lehrgang"
 
 ### „Sensorische Integration im Dialog” nach Ulla Kiesling®
 
-Ist eine Weiterbildung, aufbauened auf grundlegender pädagogischer oder therapeutischer Berufsausbildung der Teilnehmer/innen.
+Ist eine Weiterbildung, aufbauend auf grundlegender pädagogischer oder therapeutischer Berufsausbildung der Teilnehmer/innen.
 
 Namhafte charismatische Referenten verknüpfen jahrzehnte lange eigene praktische Erfahrungen mit neuesten wissenschaftlichen Erkenntnissen über die Bedeutung des "Zusammenspiel der Sinne" (Sensorische Integration) für die menschliche Entwicklung.
 

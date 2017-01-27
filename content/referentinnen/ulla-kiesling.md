@@ -3,7 +3,7 @@ title = "Ulla Kiesling"
 thumb = "ulla-kiesling.jpg"
 +++
 
-<img class="referentin" src="/referentinnen/ulla-kiesling.jpg" alt="Ulla Kiesling" />
+<img class="referentin" src="/referentinnen/ulla-kiesling-1.jpg" alt="Ulla Kiesling" />
 
 - staatlich geprüfte Sportlehrerin
 - staatlich geprüfte Motopädin / Mototherapeutin
