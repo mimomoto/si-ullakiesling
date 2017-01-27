@@ -1,5 +1,8 @@
 +++
 title = "Links und Literatur"
+aliases = [
+  "/index.php?option=com_content&view=article&id=12&Itemid=115"
+]
 +++
 
 ### Therapieangebote, Institutionen, Schulen...

@@ -1,5 +1,8 @@
 +++
 title = "Seminare und Vorträge"
+aliases = [
+  "/index.php?option=com_content&view=article&id=14&Itemid=103"
+]
 +++
 
 <div class="rounded-big">

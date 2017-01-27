@@ -1,5 +1,8 @@
 +++
 title = "Förderungen"
+aliases = [
+  "/index.php?option=com_content&view=article&id=3&Itemid=109"
+]
 +++
 
 <div class="rounded-big">

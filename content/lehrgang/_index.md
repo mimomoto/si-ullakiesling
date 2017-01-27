@@ -1,5 +1,8 @@
 +++
 title = "Der Lehrgang"
+aliases = [
+  "/index.php?option=com_content&view=article&id=2&Itemid=102"
+]
 +++
 
 ### „Sensorische Integration im Dialog” nach Ulla Kiesling®

@@ -1,5 +1,8 @@
 +++
 title = "Kontakt"
+aliases = [
+  "/index.php?option=com_content&view=article&id=11&Itemid=114"
+]
 +++
 
 - Anfragen für Seminare in Hamburg und Wien an [info@si-ullakiesling.info](mailto:info@si-ullakiesling.info)

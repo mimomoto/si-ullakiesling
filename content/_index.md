@@ -1,5 +1,9 @@
 +++
 title = "„Sensorische Integration im Dialog” nach Ulla Kiesling®"
+aliases = [
+  "/index.php",
+  "/index.php?option=com_content&view=article&id=13&Itemid=104"
+]
 +++
 
 [Ulla Kieslings](/referentinnen/ulla-kiesling) therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und physisch "normal" entwickeln kann, wenn seine Sinne im Gleichgewicht sind.
