@@ -21,6 +21,7 @@ TeilnehmerInnen bzw. AbsolventInnen des Lehrgangs steht in Absprache vereinzelnt
 
 
 ### Aktuelle Lehrgänge von und mit Ulla Kiesling
+
 <br>
 
 #### Klosterneuburg
@@ -30,29 +31,37 @@ Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
 - Beginn: **8. März 2017**
 - Kurszeiten: 9:00-16:00 Uhr oder 9:00-17:00 Uhr
 - Ort: Volksschule Albrechtstraße 59, 3400 Klosterneuburg
-- Kosten: € 2.756,00
 - Lehrgangsleitung: Frau Britta Nahrgang
 - Ansprechpartner: Frau Kornelia Zauner
 - Telefon: 02243-444 321
 - E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
-- Anmeldung: per E-Mail oder Telefon: 07752/82742
-- Begrenzte Teilnehmerzahl, bitte rechtzeitig anmelden! Die Anmeldungen werden nach Eingangsdatum berücksichtigt.
 - [Lehrplan: Termine und Themen (PDF)](/download/SI-Folder-Klosterneuburg-2017-3.pdf)
+
+<br>
+
+
+#### Großrußbach
+Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
+
+- Beginn: 7-11. Februar 2018
+- Ort: Bildungshaus Großrußbach (nördlich von Wien)
+- Ansprechpartner: Markus Gerhartinger
+- Weitere Informationen folgen in Kürze
 
 <br>
 
 #### Ried
 Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
 
-- Beginn: 29. September 2016
+- Derzeit läuft ein Lehrgang, der nächste Kursstart ist voraussichtlich im Herbst 2018
 - Ort: Bildungszentrum St. Franziskus - Riedholzstraße 15a - A-4910 Ried i.I. OÖ
-- Kosten: € 2.756,00
 - Ansprechpartner: Frau Kornelia Zauner
 - E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
-- Anmeldung: per E-Mail oder Telefon: 07752/82742
-- Begrenzte Teilnehmerzahl, bitte rechtzeitig anmelden! Die Anmeldungen werden nach Eingangsdatum berücksichtigt.
-- [Lehrplan: Termine und Themen (PDF)](/download/Termine-Ried-2016.pdf)
-- [Infofolder (PDF)](/download/Folder-Ried-2016.pdf)
+- Weitere Informationen folgen in Kürze
+
+
+<br>
+
 
 
 <img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-5.jpg" />
