@@ -24,28 +24,13 @@ TeilnehmerInnen bzw. AbsolventInnen des Lehrgangs steht in Absprache vereinzelnt
 
 <br>
 
-#### Klosterneuburg
-
-Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
-
-- Beginn: **8. März 2017**
-- Kurszeiten: 9:00-16:00 Uhr oder 9:00-17:00 Uhr
-- Ort: Volksschule Albrechtstraße 59, 3400 Klosterneuburg
-- Lehrgangsleitung: Frau Britta Nahrgang
-- Ansprechpartner: Frau Kornelia Zauner
-- Telefon: 02243-444 321
-- E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
-- [Lehrplan: Termine und Themen (PDF)](/download/SI-Folder-Klosterneuburg-2017-3.pdf)
-
-<br>
-
-
 #### Großrußbach
 Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
 
 - Beginn: 7-11. Februar 2018
-- Ort: Bildungshaus Großrußbach (nördlich von Wien)
+- Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
 - Ansprechpartner: Markus Gerhartinger
+- E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
 - Weitere Informationen folgen in Kürze
 
 <br>
