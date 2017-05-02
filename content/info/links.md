@@ -8,9 +8,6 @@ aliases = [
 
 ### Therapieangebote, Institutionen, Schulen...
 
-- [www.si-im-dialog.at](http://www.si-im-dialog.at)
-  - Die Praxis für „Sensorische Integration im Dialog“ nach Ulla Kiesling® in Wien 6, Dürergasse 6.
-
 - [www.wabe-hamburg.de](http://www.wabe-hamburg.de)
   - Derzeit werden in sämtlichen Wabe-Kitas in Hamburg (18) von Ulla Kiesling SI-Therapie-+ Bewegungsräume geplant und eingerichte oder nachgerüstet.
 
@@ -22,9 +19,6 @@ aliases = [
 
 - [www.bewusstseinsquelle.at](http://www.bewusstseinsquelle.at)
   - Die BewusstseinsQuelle ist ein Therapie- und Schulungszentrum für ganzheitliche Methoden zur Förderung, Erhaltung und Wiederherstellung der Gesundheit.
-
-- [www.kindertierkreis.at](http://www.kindertierkreis.at)
-  - Tiergestützte Therapie für Kinder mit und ohne Behinderung in Niederösterreich.
 
 - [www.galemo.at](http://www.galemo.at)
   - Die Galemo Schule ist eine Montessori-Schule in Klosterneuburg - Wien.
@@ -53,9 +47,6 @@ aliases = [
 
 - [www.knetmatz.eu](http://www.knetmatz.eu)
   - Besondere Spielsachen / Therapiematerialien für Lernspiele zur Förderung der Wahrnehmung und der Bewegungsförderung.
-
-- [www.c-stoeber.de](http://www.c-stoeber.de)
-  - Kindergarten- & Therapiebedarf, Befestigungs-Systeme, individuelle Planung & Montage
 
 
 ### Bildungshäuser
