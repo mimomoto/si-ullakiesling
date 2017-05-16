@@ -31,6 +31,7 @@ Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
 - Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
 - Ansprechpartner: Markus Gerhartinger
 - E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
+- Vormerkung ab sofort möglich, bitte nehmen Sie Kontakt zu uns auf
 - Weitere Informationen folgen in Kürze
 
 <br>
