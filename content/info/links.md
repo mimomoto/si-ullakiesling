@@ -14,6 +14,9 @@ aliases = [
 - [www.motopaedagogik.org](http://www.motopaedagogik.org)
   - Thesi Zak, Motopädagogische Bewegungsabenteuer für Kinder zwischen 3 und 13 Jahren an Kindergärten und Schulen u.a.
 
+- [www.movefant.at](http://www.movefant.at)
+  - Entwicklungsbegleitung im Wasser, Seilgesichertes Baumklettern, bewegt-bestärkende Ferienwochen, Zirkusgruppe, Bewegungsdschungel, begleitende Elterngespräche
+
 - [www.demenz-bewegen.org](http://www.demenz-bewegen.org)
   - Thesi Zak, „Bewegte Brücken bauen zu Menschen mit Demenz". Psychomotorische Aktivierung & motogeragogische Angebote helfen Beziehung zu gestalten.
 
