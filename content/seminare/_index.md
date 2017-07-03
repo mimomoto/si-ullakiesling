@@ -5,6 +5,31 @@ aliases = [
 ]
 +++
 
+#### Großrußbach
+Vortrag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
+
+- Dienstag, 14.November 2017, 19:00 Uhr
+- Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
+- Teilnahmebeitrag: € 15,-
+- Anmeldung bis 30.10.2017
+- Ansprechpartner: Markus Gerhartinger
+- E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
+- [Weitere Informationen [PDF]](/download/Sensorische_Integration_Ulla_Kiesling_Vortrag_Seminar_November.pdf)
+
+
+<br>
+
+Seminartag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
+
+- Mittwoch, 14.November 2017, 9:00 - 16:00 Uhr
+- Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
+- Teilnahmebeitrag: € 99,-/ € 95,- mit BildungshausCard
+- Anmeldung bis 30.10.2017
+- Ansprechpartner: Markus Gerhartinger
+- E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
+- [Weitere Informationen [PDF]](/download/Sensorische_Integration_Ulla_Kiesling_Vortrag_Seminar_November.pdf)
+
+
 <div class="rounded-big">
   <img src="/si-2.jpg" alt="Spielerisch und ganz von selbst, mit „Sensorischer Integration im Dialog" nach Ulla Kiesling®" />
 </div>
