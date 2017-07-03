@@ -5,7 +5,7 @@ aliases = [
 ]
 +++
 
-### „Sensorische Integration im Dialog” nach Ulla Kiesling®
+<h3>„Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup></h3>
 
 Ist eine Weiterbildung, aufbauend auf grundlegender pädagogischer oder therapeutischer Berufsausbildung der Teilnehmer/innen.
 
@@ -25,19 +25,45 @@ TeilnehmerInnen bzw. AbsolventInnen des Lehrgangs steht in Absprache vereinzelnt
 <br>
 
 #### Großrußbach
-Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
+Vortrag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
+
+- Dienstag, 14.November 2017, 19:00 Uhr
+- Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
+- Teilnahmebeitrag: € 15,-
+- Anmeldung bis 30.10.2017
+- Ansprechpartner: Markus Gerhartinger
+- E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
+- [Weitere Informationen [PDF]](/download/Sensorische_Integration_Ulla_Kiesling_Vortrag_Seminar_November.pdf)
+
+
+<br>
+
+Seminartag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
+
+- Mittwoch, 14.November 2017, 9:00 - 16:00 Uhr
+- Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
+- Teilnahmebeitrag: € 99,-/ € 95,- mit BildungshausCard
+- Anmeldung bis 30.10.2017
+- Ansprechpartner: Markus Gerhartinger
+- E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
+- [Weitere Informationen [PDF]](/download/Sensorische_Integration_Ulla_Kiesling_Vortrag_Seminar_November.pdf)
+
+
+
+<br>
+
+Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
 
 - Beginn: 7-11. Februar 2018
 - Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
 - Ansprechpartner: Markus Gerhartinger
 - E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
 - Vormerkung ab sofort möglich, bitte nehmen Sie Kontakt zu uns auf
-- [Weitere Informationen [PDF]](/download/Sensorische_Integration__Folder_2018.pdf)
 
 <br>
 
 #### Ried
-Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling®
+Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
 
 - 29.-31. Juli 2018
 - Ort: Bildungszentrum St. Franziskus - Riedholzstraße 15a - A-4910 Ried i.I. OÖ
