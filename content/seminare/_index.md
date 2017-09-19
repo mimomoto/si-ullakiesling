@@ -8,7 +8,7 @@ aliases = [
 #### Großrußbach
 Vortrag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
 
-- Dienstag, 14.November 2017, 19:00 Uhr
+- Dienstag, 14. November 2017, 19:00 Uhr
 - Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
 - Teilnahmebeitrag: € 15,-
 - Anmeldung bis 30.10.2017
@@ -21,7 +21,7 @@ Vortrag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
 
 Seminartag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
 
-- Mittwoch, 14.November 2017, 9:00 - 16:00 Uhr
+- Mittwoch, 15. November 2017, 9:00 - 16:00 Uhr
 - Ort: Bildungshaus Großrußbach - Schlossbergstraße 8 - A-2114 Großrußbach
 - Teilnahmebeitrag: € 99,-/ € 95,- mit BildungshausCard
 - Anmeldung bis 30.10.2017

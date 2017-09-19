@@ -8,6 +8,9 @@ aliases = [
 
 ### Therapieangebote, Institutionen, Schulen...
 
+- [www.si-im-dialog-ullakiesling.at](http://www.si-im-dialog-ullakiesling.at)
+  - „Sensorische Integration im Dialog" nach Ulla Kiesling<sup>&reg;</sup>
+
 - [www.wabe-hamburg.de](http://www.wabe-hamburg.de)
   - Derzeit werden in sämtlichen Wabe-Kitas in Hamburg (18) von Ulla Kiesling SI-Therapie-+ Bewegungsräume geplant und eingerichte oder nachgerüstet.
 
