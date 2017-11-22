@@ -96,7 +96,9 @@ aliases = [
   <div class="col-md-4">
     <img class="book" src="/books/ulla-kiesling-buch-5.jpg" />
   </div>
-
+  <div class="col-md-4">
+    <img class="book" src="/books/ulla-kiesling-buch-6.jpg" />
+  </div>
 </div>
 
 
