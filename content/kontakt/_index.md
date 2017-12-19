@@ -13,7 +13,7 @@ aliases = [
 
 - Ulla Kiesling ist **ausschließlich für Terminabsprachen und ein- bis fünftägige Seminare** telefonisch persönlich erreichbar **(Montags und Mittwochs zwischen 7 - 8 Uhr in der Früh)**.
 
-- Terminabsprache zur **Motoskopische Erstbegutachtung und Therapie in Deutschland**: +49 151 59204122
+- Terminabsprache zu **Motoskopischer Erstbegutachtung und Therapie in Deutschland**: +49 151 59204122
 - Anfragen zur Kinderbegutachtung, „Sensorische Integration im Dialog" nach Ulla Kiesling® und Intensivwochen in **Wien**: +43 660 4666888
 
 - Für Kinderbegutachtung in Ried, kontaktieren Sie Ulla Kiesling persönlich.
