@@ -6,7 +6,7 @@ aliases = [
 +++
 
 - Anfragen für Seminare in Hamburg und Wien an [info@si-ullakiesling.info](mailto:info@si-ullakiesling.info)
-- Anfragen und Anmeldung für den Lehrgang Ried 2014:
+- Anfragen und Anmeldung für den Lehrgang:
   - Frau Kornelia Zauner, Lehrgangsleitung
   - Telefon: +43(0)7752 82 7 42
   - E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
