@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>„Sensorische Integration im Dialog” nach Ulla Kiesling®</title>
-    <link>https://www.si-ullakiesling.info/index.xml</link>
+    <link>https://www.si-ullakiesling.info/</link>
     <description>Recent content on „Sensorische Integration im Dialog” nach Ulla Kiesling®</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <atom:link href="https://www.si-ullakiesling.info/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://www.si-ullakiesling.info/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Die „Kinderflüsterin” — Meine Begegnung mit Ulla Kiesling</title>
@@ -14,20 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/stimmen/die-kinderfluesterin/</guid>
-      <description>&lt;p&gt;Seit gut einem Monat stehen bei uns zu Hause im Stall zwei Pferde. Es sind junge Pferde und Schlüsseljahre stehen uns bevor, Bodenarbeit und Das Zureiten. Bücher zu diesem Thema stapeln sich auf den Nachtkästen meiner Frau und mir und natürlich haben wir von „Pferdeflüsterern” gelesen und dem bekannten Monty Roberts, der Pferde mit einer besonderen Methode beruhigen und aus einer Hemmung oder schweren Störung heraus begleiten kann.&lt;/p&gt;
-
-&lt;p&gt;Es heißt, Kinder und Pferde hätten eine ähnliche Seele, ich weiß es nicht, aber meine langjährige Arbeit mit Kindern aller Altersstufen lassen mich Parallelen erkennen. Beide brauchen lange, bis sie ausgewachsen und ihren Möglichkeiten entsprechend voll belastbar sind. Beide sind eigen-willig und grundsätzlich bereit sich begleiten zu lassen, lernwillig und … falscher Umgang mit ihnen und Versäumnisse sensibler Phasen in der Entwicklung können zu schweren Störungen in der Entfaltung sowohl der Persönlichkeit, als auch des Charakters führen. Mit diesen Erfahrungen aus meiner pädagogischen Arbeit habe ich mich in den Vortrag von Frau Ulla Kiesling gesetzt. Unter dem Titel: Die „Melodie&amp;rsquo; des Kindes wahrnehmen — Wahrnehmungsschwächen als Ursache für Lern- und Verhaltensschwierigkeiten bei Kindern”, erwartete ich, erstmals tieferen Einblick in die Thematik der Sensorischen Integration im Dialog zu bekommen. Ulla Kiesling arbeitet in Vorträgen und Seminaren gerne mit Videosequenzen aus ihrer praktischen Arbeit. So konnte ich nach einer theoretischen, aber sehr lebendigen Einführung in die Schwerpunkte des Themas auch Einblick in die Arbeit an und mit dem Kind bekommen. Trotz der späten Stunde und einer gewissen Müdigkeit, löste vieles von dem Gesagten und Gesehenen Betroffenheit bei mir aus. Es ist die Art, wie Ulla Kiesling Kindern mit schweren Wahrnehmungsstörungen begegnet und sie begleitet. Und hauptsächlich berührten mich die Sprache, die Art des Dialoges zwischen ihr und den Kindern.&lt;/p&gt;
-
-&lt;p&gt;Sprache ist ein „Um und Auf” in der Arbeit mit Kindern, wenn sie erfolgreich und authentisch sein soll. Wie und wie viel wir reden, ob es Plappern, Reden oder Mitteilen ist, hat große Bedeutung für unseren Umgang mit Kindern. Und letztlich verrät die Sprache dem Kind viel über uns. Kinder können zwischen den Zeilen hören, vergleichen Worte mit Handlungen und wissen sofort, ob dieser Erwachsenen gut tut oder nicht.&lt;/p&gt;
-
-&lt;p&gt;Das am Vortragsabend gezeigte Video bestätigte mir, dass diese Haltung Kindern gegenüber gut und richtig ist, eröffnete mir aber in einer selten erlebten Deutlichkeit, wie wirkungsvoll und heilsam wenige aber glasklare Worte, verschmolzen mit entsprechenden Handlungen sein können. Das was ich sah, kannte ich von den Pferdeflüsterern. Und mit einem Mal wurde mir bewusst, dass dieses Minimum an Sprache, Stimme und Handlung Heilung und große Entfaltung ermöglichen kann. Ulla Kiesling „flüstert” mit den Kindern. Nicht weil sie nicht weiß, sondern, weil sie allen Möglichkeiten, die Kinder auf ihrem Weg brauchen, Einlass gewähren und Raum geben will.&lt;/p&gt;
-
-&lt;p&gt;Nein, Ulla Kiesling ist nicht die stille und unnahbare Referentin gewesen, sie redet gerne und viel, was ihre Sprachkultur mit den Kindern, die ihr anvertraut werden, nur noch glaubwürdiger macht.&lt;/p&gt;
-
-&lt;p&gt;Der Abend, der Vortrag, hat mir gut getan und mich neugierig gemacht auf mehr von all dem, was Frau Kiesling mitzuteilen hat. Wir werden sie wieder nach Innsbruck holen!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;G.R. Volderwald&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Seit gut einem Monat stehen bei uns zu Hause im Stall zwei Pferde. Es sind junge Pferde und Schlüsseljahre stehen uns bevor, Bodenarbeit und Das Zureiten. Bücher zu diesem Thema stapeln sich auf den Nachtkästen meiner Frau und mir und natürlich haben wir von „Pferdeflüsterern” gelesen und dem bekannten Monty Roberts, der Pferde mit einer besonderen Methode beruhigen und aus einer Hemmung oder schweren Störung heraus begleiten kann.
+Es heißt, Kinder und Pferde hätten eine ähnliche Seele, ich weiß es nicht, aber meine langjährige Arbeit mit Kindern aller Altersstufen lassen mich Parallelen erkennen.</description>
     </item>
     
     <item>
@@ -36,16 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/referentinnen/andreas-kniess/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;referentin&#34; src=&#34;https://www.si-ullakiesling.info/referentinnen/andreas-kniess.png&#34; alt=&#34;Dr. Andreas Knieß&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dr. med., Facharzt für Innere Medizin und Allgemeinmedizin; Schwerpunkt Anthroposophische Medizin, kindliche Entwicklung, Heil- und Förderpädagogik&lt;/li&gt;
-&lt;li&gt;seit 1986 ärztlich tätig - zunächst in Botswana / Afrika&lt;/li&gt;
-&lt;li&gt;seit 1987 klinische Tätigkeit in Hamburg und Mitbetreuung diverser heilpädagogischer Einrichtungen und vielfältige Fort- und Weiterbildungstätigkeit im Bereich Pflegeberufe, Physiotherapie, Pädagogik und Heilpädagogik sowie Anthroposophische Medizin&lt;/li&gt;
-&lt;li&gt;seit 1997 in freier Praxis für Anthroposophische und Innere Medizin&lt;/li&gt;
-&lt;li&gt;seit 2007 ärztliche Leitung der Ausbildung „Heilpädagogik und Förderlehrer“, Hamburg&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Dr. med., Facharzt für Innere Medizin und Allgemeinmedizin; Schwerpunkt Anthroposophische Medizin, kindliche Entwicklung, Heil- und Förderpädagogik seit 1986 ärztlich tätig - zunächst in Botswana / Afrika seit 1987 klinische Tätigkeit in Hamburg und Mitbetreuung diverser heilpädagogischer Einrichtungen und vielfältige Fort- und Weiterbildungstätigkeit im Bereich Pflegeberufe, Physiotherapie, Pädagogik und Heilpädagogik sowie Anthroposophische Medizin seit 1997 in freier Praxis für Anthroposophische und Innere Medizin seit 2007 ärztliche Leitung der Ausbildung „Heilpädagogik und Förderlehrer“, Hamburg  </description>
     </item>
     
     <item>
@@ -54,14 +35,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/stimmen/hospitation/</guid>
-      <description>&lt;p&gt;Die Ruhe und das Geerdet-Sein von Frau Kiesling während des gesamten Nachmittags waren sichtlich gut für die arbeit. Ich finde, dass sie ihre Fäden behutsam und gekonnt spannt, meist aus dem Hintergrund und trotzdem sehr „wirkungs-voll”. Die Arbeit sieht wunderbar „leicht” und spielerisch aus, obwohl teils ziemlich stark beeinträchtigte kinder da waren.&lt;/p&gt;
-
-&lt;p&gt;Fast alle Eltern, die ich erlebt habe, haben schon sehr viel Ideen von Frau Kiesling in ihr „Sein mit dem Kind” eingebaut, schien es, ob es das gesangliche Begleiten, das Tiefeninformation-Geben in vielen Situationen oder das Abklopfen des Körpers war. Ihr Blick ist weit und ihr Verhalten konsequent. Sehr schön auch, wie lustvoll Therapie sein kann!&lt;/p&gt;
-
-&lt;p&gt;Ich war stellenweise sehr berührt, habe gelacht, gestaunt und mit offenen augen, ohren und meinem Herzen aufzunehmen versucht – seeehr spannend!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Lara Fabian&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Die Ruhe und das Geerdet-Sein von Frau Kiesling während des gesamten Nachmittags waren sichtlich gut für die arbeit. Ich finde, dass sie ihre Fäden behutsam und gekonnt spannt, meist aus dem Hintergrund und trotzdem sehr „wirkungs-voll”. Die Arbeit sieht wunderbar „leicht” und spielerisch aus, obwohl teils ziemlich stark beeinträchtigte kinder da waren.
+Fast alle Eltern, die ich erlebt habe, haben schon sehr viel Ideen von Frau Kiesling in ihr „Sein mit dem Kind” eingebaut, schien es, ob es das gesangliche Begleiten, das Tiefeninformation-Geben in vielen Situationen oder das Abklopfen des Körpers war.</description>
     </item>
     
     <item>
@@ -70,21 +45,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/stimmen/mutter-st-petersburg/</guid>
-      <description>&lt;p&gt;Dear Ulla,
-I write these words of infinite maternal gratitude. I&amp;rsquo;m Nikita&amp;rsquo;s mother from St. Petersburg, Julia. We were in Vienna on January 16, 2012. Nikita was then 4 years 2 months and I have had a lot of worries on his account. It has been a year ago and I can&amp;rsquo;t wait to share with you our successes. One must of course say that all changes were happening at that time in Vienna with Nikita and me. I was amazed how fast you happened to touch, at how much you felt and accurately identified his needs and that it hurt. From the first day of exploring with you Nikita himself gave up bottles with dummy, become without anxiety and fear, and even with interest and excitement at the Vienna subway ride, which he didn&amp;rsquo;t do in Russia.
-We had only four days with you, but these were the brightest and a breakthrough in days of our lives who remember forever. When we got home the first thing Nikita said , looking at his little brother: &amp;ldquo;I Want to inform you about Ulla! And you go to Vienna and going with her to play there.&amp;rdquo; Months went by, and with every new day has changed, or maybe he was changing and I rather my mind and attitude to what has happened with Nikita certainly did both. You&amp;rsquo;ve seen him a little over half a year later in August and I think you mentioned that it&amp;rsquo;s no longer the Nikita, which he was in January. We really had a good summer, I tried to follow all of your advices and ideas about it and our relationship and I think this has tremendous results, thank you!
-Now, Nikita 5 years old, second year walks in the integrated kindergarten and now he has a friend Timur. According to Nikita&amp;rsquo;s ringleader and leader of educators in their company and for me it&amp;rsquo;s a miracle, because prior to that, Nikita completely ignored peers. Now he is absolutely wonderful and has a real friendly relationship with his younger brother, protects it and draws in his company. He has much better coordination, large motor skills (dresses and undresses himself). His speech has become much better and detailed, he began to retell the book that he has read itself (Nikita started reading with 2 years 8 months), that leaves no doubt reading is not mechanical. He now composes fantasy games turbulent, comes up with the story. Nikita became a trusted role at children&amp;rsquo;s festivals and he copes with them brilliantly. It became easier to part with me in the morning, when we go to kindergarten. He more and more enlarges the range of interests for music, new books, architecture and streets of our city. Nikita makes great successes in swimming (although Nikita had great difficulties with diving at the age of 10 months). In fact a lot of things have changed yet, but the most important thing that I want to mention, is the absolutely magical and trusting relationship with the Father. It is very moving for me to observe their relationship. They walk together to shop, play, read. Why is it so important - before Nikita did not show any attention to the father.
-And another special thanks and gratitude to our teachers in the kindergarten, who supported us from the beginning and even were you got together with us. I believe that me and Nikita is very fortunate in life that we met you. Desire that all parents must have read your book &amp;ldquo;sensory integration in the dialogue&amp;rdquo; and to have met you. Health to you large and happiness. We are looking forward to your new book yet. From Nikita best and warmest regards and a low bow to you from us. I hope that we will meet.
-&lt;em&gt;Yours Nikita and Julia.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Дорогая Улла,
-пишет тебе слова бесконечной материнской благодарности мама Никиты из Санкт-Петербурга, Юлия. Мы были у тебя в Вене 16 января 2012 года, Никите было тогда 4 года 2 месяца и у меня было очень много беспокойств на его счет. Прошел год и мне не терпится поделиться с тобой нашими успехами. Надо, конечно сказать, что все изменения стали происходить уже тогда в Вене и с Никитой и со мной в частности, что на мой взгляд очень важно. Я была поражена на сколько быстро у вас случился контакт, на сколько ты почувствовала и точно определила его потребности и то что ему мешало. С первого же дня знакомства с тобой Никита сам отказался от бутылочки с соской, стал без тревоги и страха, а даже с интересом и азартом ездить в венском метро, чего он не делал в России. Мы провели всего четыре дня с тобой, но это были самые яркие и прорывные дни в нашей жизни, которые за помнятся навсегда. Когда мы вернулись домой первое, что сказал Никита, глядя на своего младшего брата : &amp;ldquo; Хочешь я по знакомлю тебя с Уллой? И ты поедешь в Вену и будешь с ней играть там.&amp;rdquo;
-Шли месяцы, дни и с каждым новым днем Никита менялся, а может менялась и я, точнее мой взгляд и отношение к тому что происходило с Никитой, конечно же и то и другое. Ты его видела спустя полгода чуть больше в августе и я думаю ты отметила, что это уже не тот Никита, который был в январе. Мы очень хорошо провели лето, я старалась выполнить все твои рекомендации и идеи по поводу его и наших отношений и на мой взгляд это дало огромные результаты, спасибо тебе!
-Сейчас Никите 5 лет и 2 месяца, он второй год ходит в интегрированный детский сад и сейчас у него появился друг Тимур. По словам воспитателей Никита заводила и лидер в своей компании и для меня это настоящее чудо т.к. до этого Никита совершенно игнорировал сверстников. Сейчас у него совершенно замечательные и по-настоящему дружеские отношения с младшим братом, он защищает его и привлекает в свою компанию. У него гораздо лучше с координацией, крупной моторикой ( одевается и раздевается сам). Немного разнообразил свое питание, по крайней мере начал потихоньку побывать новые продукты. Его речь стала гораздо лучше и развернутая, он стал пересказывать сам книги которые читает сам ( Никита читает с 2 лет 8 месяцев самостоятельно), что не оставляет сомнений чтение не механическое. У него сейчас бурная фантазия сам сочиняет игры, придумывает истории. Никите стали доверять роли на детских праздниках и он блестяще с ними справляется. Он стал легче расставаться со мной утром, когда приходит в детский сад. У него рас ширился круг интересов музыка, новые книги, архитектура и улицы нашего города. У Никиты большие успехи в плавании ( хоть Никита занимается в бассейне с 10 месяцев, он очень боялся нырять), теперь в очках и ластах с проныром он проплавает бассейн 15 метров и сам в восторге от этого. На самом деле очень много еще чего изменилось, но самое главное что хочется отметить это совершенно волшебные и доверительные отношения с папой. Он звонит ему, ждет его с работы, интересуется папиной жизнью и здоровьем, это очень трогательно для меня наблюдать за их отношениями. Они ходят вместе в магазин, играют, читают. Почему это так важно, раньше Никита к папе не проявлял никакого внимания.
-И еще отдельное спасибо и благодарность нашим воспитателям в детском саду, которые с самого начала поддерживали нас и даже были у тебя вместе с нами.
-Я считаю что мне и Никите очень повезло в жизни что мы познакомились с тобой. Очень хочется чтобы все родители обязательно прочитали твою книгу &amp;ldquo; Сенсорная интеграция в диалоге&amp;rdquo; и по возможности познакомились с тобой. Здоровья тебе большого и счастья. Мы ждем еще твою новую книгу с нетерпением. От Никиты большой привет и низкий тебе поклон от нас. Надеюсь что мы еще встретимся.
-&lt;em&gt;Твои Никита и Юля.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Dear Ulla, I write these words of infinite maternal gratitude. I&amp;rsquo;m Nikita&amp;rsquo;s mother from St. Petersburg, Julia. We were in Vienna on January 16, 2012. Nikita was then 4 years 2 months and I have had a lot of worries on his account. It has been a year ago and I can&amp;rsquo;t wait to share with you our successes. One must of course say that all changes were happening at that time in Vienna with Nikita and me.</description>
     </item>
     
     <item>
@@ -93,14 +54,8 @@ And another special thanks and gratitude to our teachers in the kindergarten, wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/stimmen/mutter-kita/</guid>
-      <description>&lt;p&gt;Vielen Dank für die erfolgreiche Vermittlung von Frau Kiesling. Nun haben wir drei Kinder und schätzungsweise 200 Arztbesuche hinter uns - keiner der Mediziner hat sich unseren Schatz je so gründlich und zugewandt angesehen wie Frau Kiesling. Eine Stunde Anamnese, eine Stunde Elterngespräch, das war mehr als unsere bänglichen Schulmedizinerherzen gewohnt waren.&lt;/p&gt;
-
-&lt;p&gt;Die Erklärung konnten sowohl hypernervöse Nicht-Mediziner verstehen (= Mutter) als auch die Therapievorschläge naturfaule Erziehungsberechtigte (= Vater) umsetzen: barfuß laufen, Trampolin kaufen, Hände massieren - nur bei dem Hinweis, viel mit dem Kinde zu singen, geht wahrscheinlich der therapeutische Musikgeschmack von meinem Mann und Frau Kiesling auseinander. Ob man eine sensorisch-qualitativ hochwirksame Tiefenwahrnehmung mit &amp;ldquo;Fiesta Mexikana&amp;rdquo; schult, weiß ich nicht. Bezweifle ich aber. Wenn es dennoch so ist, werde ich eine Kooperation Kiesling-Rex-Guildo ins Leben rufen. Und werde dazu eigenhändig die Pressearbeit übernehmen.&lt;/p&gt;
-
-&lt;p&gt;Wenn es schon viele Gründe gab, Ihre Kita über den grünen Klee zu loben, Frau Kiesling und ihr alternativer Ganzkörperseelenansatz ist ein weiterer. Hätte ich Golddukaten im Keller - ich vermachte sie ihr. Hätte ich Lorbeer im Garten, ich windete ihr einen Kranz. Leider habe ich nur 26 Buchstaben, die ich in unterschiedlicher Weise zusammenklappern kann, um ein &amp;ldquo;Merci bien&amp;rdquo; zu tippen. Dies tue ich aber gern. Vielen Dank!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Katrin Wilkens&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Vielen Dank für die erfolgreiche Vermittlung von Frau Kiesling. Nun haben wir drei Kinder und schätzungsweise 200 Arztbesuche hinter uns - keiner der Mediziner hat sich unseren Schatz je so gründlich und zugewandt angesehen wie Frau Kiesling. Eine Stunde Anamnese, eine Stunde Elterngespräch, das war mehr als unsere bänglichen Schulmedizinerherzen gewohnt waren.
+Die Erklärung konnten sowohl hypernervöse Nicht-Mediziner verstehen (= Mutter) als auch die Therapievorschläge naturfaule Erziehungsberechtigte (= Vater) umsetzen: barfuß laufen, Trampolin kaufen, Hände massieren - nur bei dem Hinweis, viel mit dem Kinde zu singen, geht wahrscheinlich der therapeutische Musikgeschmack von meinem Mann und Frau Kiesling auseinander.</description>
     </item>
     
     <item>
@@ -109,20 +64,8 @@ And another special thanks and gratitude to our teachers in the kindergarten, wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/stimmen/mutter/</guid>
-      <description>&lt;p&gt;Wir besuchten das Institut von Frau Kiesling erstmals im April 2011. Unsere Tochter war damals 2 ½ Jahre alt. Grund der Vorstellung war die große Diskrepanz in der motorischen und sprachlichen Entwicklung in Richtung motorischer Entwicklungsverzögerung und Probleme im sozialen Bereich. Unter anderem Schüchternheit im Umgang mit anderen, mit anderen Kindern, eine starke Mama-Fixierung und vieles mehr.&lt;/p&gt;
-
-&lt;p&gt;Echte Fortschritte waren bereits nach nur wenigen Therapieeinheiten sichtbar, Fortschritte, die bis heute andauern und uns zum Teil staunen lassen:&lt;/p&gt;
-
-&lt;p&gt;Sie geht aktiv auf andere Kinder zu, lässt sich an der Hand nehmen, umarmen, hüpft mit anderen Kinder Trampolin, …
-bleibt freiwillig und ohne Probleme alleine bei ihr wichtigen Bezugspersonen.
-traut sich motorisch mehr zu, hat Spaß am Spielplatz, probiert alles aus, klettern, schaukeln, balancieren, rutschen ….
-motorische Fortschritte: hüpft beidbeinig, geht Stiegen frei hinauf und hinunter, schlägt Purzelbäume, lässt sich hinfallen, ….
-verbesserter Tonus (Laden aufmachen, WC Spülung betätigen,&amp;hellip;)
-Größere Sicherheit im Wasser: schwimmt mit Schwimmflügerln auch im Meer schon weit weg von uns (nur das Gesicht darf noch nicht nass werden)
-genießt das Spielen mit Matsch, Sand, Steinen,&amp;hellip;
-insgesamt ist sie viel offener geworden und strahlt viel mehr!
-Bleibt spannend!&lt;/p&gt;
-</description>
+      <description>Wir besuchten das Institut von Frau Kiesling erstmals im April 2011. Unsere Tochter war damals 2 ½ Jahre alt. Grund der Vorstellung war die große Diskrepanz in der motorischen und sprachlichen Entwicklung in Richtung motorischer Entwicklungsverzögerung und Probleme im sozialen Bereich. Unter anderem Schüchternheit im Umgang mit anderen, mit anderen Kindern, eine starke Mama-Fixierung und vieles mehr.
+Echte Fortschritte waren bereits nach nur wenigen Therapieeinheiten sichtbar, Fortschritte, die bis heute andauern und uns zum Teil staunen lassen:</description>
     </item>
     
     <item>
@@ -131,28 +74,7 @@ Bleibt spannend!&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/stimmen/feedback/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Das genaue Hinschauen erlernt zu haben, jedes Kind zu nehmen wie es ist und auch dort abzuholen. Komplett neue Unterrichtsgestaltung – erst das Kind in allen Sinnen zu wecken, dann erst mit dem Lerninhalt zu beginnen.&lt;/li&gt;
-&lt;li&gt;Man kann jetzt besser erkennen, was dem Kind fehlt und zielgerichtet Hilfe anbieten&lt;/li&gt;
-&lt;li&gt;Der neue Blick auf Bewegung als Heilmittel, der neue Blick auf die Kinder und ihre Auffälligkeiten, ein Vokabular, um den Eltern klar zu machen, warum ihre Kinder Hilfe brauchen&lt;/li&gt;
-&lt;li&gt;Das dialogische Prinzip anwenden lernen&lt;/li&gt;
-&lt;li&gt;Verständnis für Eltern und Elterngespräch&lt;/li&gt;
-&lt;li&gt;Vielfalt von Material&lt;/li&gt;
-&lt;li&gt;Das Sehen der verschiedenen Videos hat wirklich geholfen. So wie Frau Kiesling sagt, sie musste uns provozieren, damit wir verstehen!!! Das hat gewirkt.&lt;/li&gt;
-&lt;li&gt;Antworten auf die Frage: Wie kann man mit einfachen Mitteln zum Ziel kommen? Wie kann ich SI in meinen Unterricht einbauen&lt;/li&gt;
-&lt;li&gt;Ich habe Elemente sofort in meine Arbeit einfließen lassen und bin jetzt am Erweitern. Ich überlege ein Konzept für die Schule, wie ich SI fix einbauen kann, weil meine 4 Kinder sehr bedürftig sind. Bzw. plane ich eine Klasse ganz nach Si zu führen.&lt;/li&gt;
-&lt;li&gt;Alle Vortragenden waren für mich sehr interessant und spannend wegen ihrer unterschiedlichen Zugänge und Persönlichkeiten. Die Motivation der Vortragenden waren sehr ansteckend und inspirierend&lt;/li&gt;
-&lt;li&gt;Möchte keines der angebotenen Seminare missen&lt;/li&gt;
-&lt;li&gt;Jeder Inhalt für sich auf besondere Weise, bin sehr dankbar für alle Vortragenden, die ein wunderbares Ganzes ergeben.&lt;/li&gt;
-&lt;li&gt;Bitte, liebe Frau Kiesling, machen Sie unbedingt weiter und lassen Sie uns in Österreich nicht allein!!!&lt;/li&gt;
-&lt;li&gt;Vielen Dank, dass es diese Ausbildung gibt! Das Niveau war fast durchgängig hoch und die unmittelbare Umsetzbarkeit ist genial!&lt;/li&gt;
-&lt;li&gt;SI im Dialog mit Ulla Kiesling ® ein Gewinn fürs Leben! Danke!&lt;/li&gt;
-&lt;li&gt;Vielen Dank, ich habe in dieser Ausbildung den Ansatz mit Kindern gefunden, den ich seit meinen Anfängen gesucht habe. Ich würde mich sehr über einen „Fortgeschrittenen“ – Kurs freuen&lt;/li&gt;
-&lt;li&gt;Ich wünsche mir, ihnen und vielen anderen noch zahlreich stattfindende SI – Kurse&lt;/li&gt;
-&lt;li&gt;Sensorisch infiziert&lt;/li&gt;
-&lt;li&gt;Danke – danke – danke!! Ich gehe jedes Mal mit so vielen wertvollen Inputs wieder in meine tägliche Arbeit und habe ein Lächeln in mir, wenn ich an die SI – Ausbildung denke! Wir machen weiter! Herzlichen Dank für Alles&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Das genaue Hinschauen erlernt zu haben, jedes Kind zu nehmen wie es ist und auch dort abzuholen. Komplett neue Unterrichtsgestaltung – erst das Kind in allen Sinnen zu wecken, dann erst mit dem Lerninhalt zu beginnen. Man kann jetzt besser erkennen, was dem Kind fehlt und zielgerichtet Hilfe anbieten Der neue Blick auf Bewegung als Heilmittel, der neue Blick auf die Kinder und ihre Auffälligkeiten, ein Vokabular, um den Eltern klar zu machen, warum ihre Kinder Hilfe brauchen Das dialogische Prinzip anwenden lernen Verständnis für Eltern und Elterngespräch Vielfalt von Material Das Sehen der verschiedenen Videos hat wirklich geholfen.</description>
     </item>
     
     <item>
@@ -161,71 +83,7 @@ Bleibt spannend!&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/info/kindheit-hilfe/</guid>
-      <description>
-
-&lt;h3 id=&#34;die-fähigkeit-des-kindes-zu-kommunizieren&#34;&gt;Die Fähigkeit des Kindes zu kommunizieren&lt;/h3&gt;
-
-&lt;p&gt;Vor ca. 20 Jahren lernte ich Dr. Inge Flehmig kennen. Die bis heute andauernde berufliche und freundschaftliche Verbindung hat meine Arbeit mit Kindern und Erwachsenen und darüber hinaus meine Persönlichkeit nachhaltig herausfordernd beeinflusst. Ihr enormes Angagement, gepaart mit einem außergewöhnlichen Wissen, gab meiner damals eher intuitiven Arbeit ein kreativ gefülltes Fundament. Bei ihr hörte ich zum ersten mal von der Arbeit Jean Ayres. Als Sportlehrerin und ehemalige Leistungssportlerin konnte ich viel Erfahrung und Kenntnisse über Bewegung und den Erwerb hochqualifizierter Bewegungsabläufe sammeln. Rückblickend verstehe ich, dass wir erfolgreichen Sportler, beim Erwerb neuer Techniken, überwiegend auf bereits „erworbenes Können“ aufbauten. Auch im damals so genannten Schulsonderturnen versuchten wir das klassische Prinzip anzuwenden: Was man nicht kann, kann man üben. Was aber macht man, wenn jemand nicht kann? Was bedeutet es, wenn er, sie nicht fühlen können, wie es geht? Wie lernt man fühlen, etwas zu tun? Schon Goethe sagte: „Wenn ihrs nicht erfühlt, ihr werdet es nie erjagen!“&lt;/p&gt;
-
-&lt;p&gt;Wir lebten damals auch ganz gut als Sportlehrer mit diesem Ansatz. Nur einzelne Kinder brachten die entsprechende Leistungen von der Motorik und vom sozialen Verhalten her nicht. Das hat sich in letzten 20 Jahren drastisch verändert! Ich halte die Hälfte der heutigen Kinder für bewegungsentwicklungsgestört, mit entsprechenden sozialen, emotionalen und intellektuell zum Ausdruck kommenden Folgen. Bereits vor meinem Studium zur Motopädin/ Mototherapeutin machte ich als Sportlehrein die Erfahrung im Behindertenbereich, dass dieses Prinzip, &amp;lt; zu üben, was man nicht kann &amp;gt; , in keiner weise zufriedenstellend gearbeitet hat. Mein 1. „Lehrjahr“ als ausgebildete Motopädin/ Mototherapeutin an einer Geistigbehindertenschule forderte mich hochgradig heraus gelernte und erfahrene Pädagogik, Didaktik und Methodik in Frage zu stellen. Die mir verantworteten Kinder bewegten sich nur, wenn sie Spaß = Erfolg hatten. Allerdings fehlten den meisten die motorischen Vorraussetzungen. Hier begann gezwungener Maßen mein dialogisches Arbeiten. Diese sogenannten geistig behinderten Kinder ließen sich nicht einfach bewegen, sie wollten ganz individuell angesprochen werden. Jedes wollte, musste und sollte da abgeholt werden wo es in seiner Entwicklung stand. Der Erfolg, bei den damals so genannten „bewegungsfaulen“ Kindern, war unglaublich. Ich begann eine Idee zu bekommen, was es bedeutet, wenn man sich besser fühlen lernt! Der Schwerpunkt meiner inzwischen langjährigen therapeutischen Arbeit mit entwicklungsgestörten Kindern vielfältigster Art (Bewegungs- Lern- Verhaltensstörungen, Autismus, Körperbehinderung, Blind etc.) baut u.a. auf den Ideen von Jean Ayres, der „Sensorischen Integration“ auf. Sie prägte den Satz: „Etwas, was man nicht kann, kann man nicht üben!“ Ich nenne meine Arbeit, wie mein gleichnamiges Buch „Sensorische Integration im Dialog“ nach Ulla Kiesling ®. (verlag modernes lernen, Dortmund, 3. Auflage) Die Feldenkraismethode ist untrennbar mit meinem Denken und Handeln verwoben. Sie beinhaltet im Vorgehen das dialogische Prinzip, verknüpft mit für mich einzigartiger Technik. Über das Erreichen qualitativ besser organisierter Bewegung, bilden sich grundlegende Vorraussetzungen, unsere Gehirn flexibel und kreativ zu nutzen. Diese auf der Erscheinungsebene motorische „Verbesserung“ nimmt Einfluss auf unser soziales, emotionales und interlektuelles Lernverhalten. Wir hören immer, das Kind da abholen wo es ist. Was bedeutet es für die Praxis? Was bedeutet es für die frühe Kommunikation mit Neugeborenen und Kleinkindern?&lt;/p&gt;
-
-&lt;p&gt;Wir haben durch das bessere Verstehen von komplexen Zusammenhänge der normalen Entwicklung von Babys vom 0 - 1 ½ Lebensjahr gelernt, zu erkennen, dass das behinderte, oder nur lernbeeinträchtigte Kind, zum Beispiel mit 7 Jahren, nicht die motorischen Qualitäten (z.T. auch Quantitäten) der verschiedenen Entwicklungsstufen bis zum 1 ½ Lebensjahr erreicht = „erreift“, sie zum Teil gar nicht durchläuft. Hieraus haben sich viele Techniken entwickelt, die in vielfältiger Weise versuchen „nachzuholen“ was zum richtigen Zeitpunkt verpasst wurde. Gelingt es die Qualität der Motorik auf das Lebensalter „nachreifen zu lassen“, verschwinden interessanter Weise viele Symptome z.B. im sozialen Verhalten und Lernverhalten (Lern- vermögen!). Von den gesunden Kindern haben wir unser Wissen über die Abweichungen bei den gestörten, behinderten Kindern erworben.. Jetzt scheint es, dass wir den umgekehrten Weg gehen müssen. Von der Arbeit mit den Behinderten kommen wir zurück, zu den eigentlich gesunden Kindern, bzw. Eltern, die in der heutigen Zeit hochgradig von Wahrnehmungsstörungen bedroht sind. Dies bedingt durch eine Steh- Sitz- und Fahrgesellschaft in der alles immer cooler durchorganisiert wird. In der Emotionalität auf der Strecke bleibt, fehlende Beachtung zu Mangel an Achtung unter den Mitmenschen führt. Die Fähigkeit zur Kommunikation, zum dialogischen Miteinander ist in vielen Bereichen nicht vorhanden. Dabei werden wir bereits mit dieser Fähigkeit geboren, sofern in der Schwangerschaft, bei der Geburt keine Komplikationen auftraten, eine für Mutter und Kind nicht existenziell lebensbedrohende Situation stattfand.&lt;/p&gt;
-
-&lt;p&gt;Das Kind da abholen, wo es ist, bedeutet seine Sprache(n) zu sprechen. Neugeborene sprechen neben zufriedenem Schnalzen oder Weinen eine deutliche mannigfaltige Sprache über den Körper. Körpersprache ist in den ersten Monaten mit ihr stärkstes Ausdrucksmittel. Die Muskelspannung bei der Bewegung, in Verbindung mit der Mimik sagt uns viel über die Stimmung, aber auch über die Bedürfnisse der jüngsten Erdenbürger. Sie gibt uns auch erste Hinweise (ab ca. 6. Lebenswoche), wenn die Entwicklung aus multiplen möglichen Gründen beginnt von der Norm abzuweichen! Die Muskelspannung drückt Aufregung, Interesse, den Grad der Wachheit oder des Schlafs, Traurigkeit, Schmerz, Freude, Zufriedenheit, Wut und Hunger aus. Sie ist variabel höher oder niedriger. Die Pathologie liegt im permanent zu hohem oder zu niedrigem Tonus, in zu extremen Schwankungen oder symmetrischen Abweichungen. Der Zustand „Ich fühl mich gut“ (ich bin leistungsbereit) werden Sie mir bestätigen, liegt in der Mitte zwischen den Extremem von Verspannung und Schlaff. (Bitte nehmen Sie jetzt auf ihrem Stuhl sitzend einmal eine extrem schlaffe Haltung ein. Ja, viele werden sich jetzt auch so fühlen wie sie aussehen! Und nun genau das Gegenteil. Setzen Sie sich bitte so verspannt wie möglich hin. Sie werden merken, beides ist sehr anstrengend und nicht förderlich meinem Vortrag mit Leichtigkeit weiter zu folgen. Unkonzentriertheit, Müdigkeit, schlechte Laune, Faulheit? usw. treten als Symptome auf.) Genau diesen Zustand versucht der gesunde Mensch ununterbrochen zu verhindern. Aber was machen wir, um die gut regulierte, der gewünschten Tätigkeit entsprechende Körperspannung zu erreichen?&lt;/p&gt;
-
-&lt;p&gt;Wir bewegen uns! Würden wir sie alle mit einem Zeitraffer filmen, dann würden einige von ihnen erstaunt sein, wie „zappelig“ (hyperaktiv?) sie auf dem Stuhl verbannt, meinem Vortrag folgen. Wir sind immer ununterbrochen mit unserer Selbstregulation beschäftigt. Je weniger man im Gleichgewicht ist, je mehr Bedarf an Bewegungsnahrung, bzw. Missempfinden bei Bewegung, im ganzen Sein entsteht. Die Norm liegt immer zwischen den Extremen und pendelt mit mehr oder weniger großen Ausschlägen um die ideale Mitte. Je besser ich mich fühle, je mehr bin ich im Gleichgewicht. Kommen wir zu den neugeborenen Kindern. In den letzten Monaten der Schwangerschaft war es sehr eng und jede Eigenbewegung und Bewegung der Mutter gaben dem Kind, wie von Beginn an sensorische Reize, sensorische Nahrung. Die Enge der letzten Zeit verstärkte die propriozeptiven Reize, neben den taktilen und vestibulären. Das Kind hat seine Hörfähigkeit sehr ausdifferenziert und alle genannten Systeme nehmen Einfluss auf die Entwicklung. Auch auf die Entwicklung der Tonusregulation, als wichtige Grundlage für jegliches weiteres Lernen nach der Geburt, für die Aufrichtung des Menschen entgegen die Schwerkraft.&lt;/p&gt;
-
-&lt;p&gt;Im Bauch der Mutter war also alles so geregelt, dass sich das Kind notwendige Entwicklungsreize (Bewegungsreize) selber holen konnte, gegebenenfalls die Mutter durch gezielte Tritte auf die Blase oder unter die Rippen in Bewegung brachte. Jetzt nach der Geburt (physiologische Frühgeburt) braucht der Mensch als Nesthocker Brutpflege. Er ist darauf angewiesen von den Eltern die leibliche Nahrung zu bekommen, aber auch die sensorisch – motorisch – emotionale – geistige und sprachliche Nahrung muss von außen kommunikativ an das Kind gebracht werden, damit es sich von innen heraus ent- wickeln kann. Von der ersten Minute im Leben nach der Geburt, ist das Kind bereit zu kommunizieren, zu lernen und zu reifen. Dafür braucht es bestimmte Bedingungen.&lt;/p&gt;
-
-&lt;p&gt;Die Fähigkeit zu Kommunizieren wird mit Sinnesnahrung genährt! Ja eigentlich wird sie erst unter Einbeziehung von sogenannter Sinnesnahrung möglich. Im folgenden Video werde ich verdeutlichen was ich damit meine.&lt;/p&gt;
-
-&lt;p&gt;Pauline ist 5 Tage alt, Herr Dr. Flehmig (Kamera) und ich haben vor, ihre Dialogfähigkeit (verbundenen mit meiner) mit der Kamera einzufangen, unter Einbeziehung therapeutischer Prinzipien aus der „Sensorischen Integration im Dialog“.&lt;/p&gt;
-
-&lt;p&gt;Diese Prinzipien beinhalten nicht das Kind einfach mit Sinnesreizen zu füttern! Sie beinhalten, ihm Angebote zu machen, auf eine Antwort zu warten und entsprechend weitere, oder andere anzubieten. Ein Dialog dieser motorisch- sensorischen Art geht davon aus, dass das Kind sehr wohl hochkompetent ist, wahrzunehmen, was es braucht um zu reifen und dass es in der Lage ist, aus dem nötigen Angebot sinn – voll zu wählen. Diese Kompetenz, von beiden Gesprächpartnern vorrausgesetzt, bildet die Grundlage zur Kommunikation, zum Dialog = Zwiegespräch. (Die Wahl der Angebote bei einem entwicklungsgestörten Baby bedarf grundlegender Kenntnisse, Ausbildungen und Erfahrung!)&lt;/p&gt;
-
-&lt;p&gt;Ich begebe mich auf die Ebene, auf der Pauline „mitreden kann“, auf ihre Kommunikationsebene. Wir üben (spielen) was sie kann! Professor Papoucek zeigte in seinen Forschungen zum Teil minuziös auf, wie Eltern (sowohl Mutter als auch der Vater) intuitiv auf die Körpersprache ihrer neugeborenen Kinder reagierten und in den mimischen, verbalen, singenden und körperlichen Kontakt gingen. Meine Erfahrungen in den letzten fünf Jahren deuten auf zunehmende Kommunikationsstörungen bei Eltern, bei Erwachsenen hin. Die Kinder werden mehr und mehr zu Symptomträgern. Erschreckend vielen scheint das Gefühl aus dem Bauch heraus mit dem Kind zu sein, zu kommunizieren verloren zu gehen. Mit dem Kind zu sein, sich einzulassen, sich Zeit zu nehmen (bedenken Sie, Zeit steht uns unendlich, nur vom Tod begrenzt zur Verfügung!) passt nicht in diese betriebsame, durchgestylt und organisierte, vom Wahn der Selbstverwirklichung bestimmten, cool und easy going laufenden, bzw. rasenden Zeit.&lt;/p&gt;
-
-&lt;p&gt;Uns Therapeuten werden die gestörten Kinder geschickt, aber wir werden zunehmend hilfloser, die Eltern, als wichtigste Wegbegleiter zu erreichen, im Innersten zu berühren, in Bewegung zu bringen. (Die Zunahme der Kurse in „Elternschulen“ hat sich vervielfacht!!!) Die Grundlagen der „Sensorischen Integration im Dialog“ sind sehr umfassend und darum auch in der folgenden Ausführung aus Zeitgründen nur unvollständig angedeutet. Ich bitte dies zu entschuldigen und lade die Zuhörer ein, bei Interesse mein genanntes Buch, sowie „Bausteine der kindlichen Entwicklung“, Jean Ayres, Springer- Verlag zu lesen. Ayres ging davon aus, dass das Zusammenspiels der sogenannten Basissinne: Gleichgewicht (vestibuläres System), Haut (taktiles System), Tiefeninformation (propriozeptives System) mit den Fernsinnen: Riechen, Schmecken, Fühlen, Sehen, Hören zur individuellen, idealen Entwicklung mit die wichtigste Vorraussetzung ist. Spielen diese Sinnessysteme gut zusammen, „haben wir alle Sinne beisammen“, sind wir ausgeglichen zufrieden und leistungsbereit, das Leben zu meistern und Freude daran zu haben, wir sind im Gleichgewicht!&lt;/p&gt;
-
-&lt;p&gt;Im Video sehen Sie leider nicht, das ich mich der fest schlafenden Pauline zunächst über den „Kanal“ des Hörens nähere. Sie gewissermaßen langsam, zunächst über die Schwingung des Tones berühre. Ich singe ihren Namen, vielleicht ist er ihr schon etwas vertraut, denn meine Stimme ist ihr noch fremd. Babys sind gleich nach der Geburt in der Lage die Stimme der Mutter von anderen zu unterscheiden!&lt;/p&gt;
-
-&lt;p&gt;Papoucek zeigte auf, dass Eltern in der ganzen Welt singend im Pentathonraum (fünf auf der Tonleiter hintereinander folgende Töne) mit ihren Neugeborenen sprechen. Damals kannte ich, den von mir hochgeschätzten, inzwischen leider verstorbenen, hoch sinnlichen Forscher und seine Arbeiten noch nicht. So habe ich unwissend, vielleicht untherapeutisch (?, oder macht es einen Therapeuten erfolgreicher von Zeit zu Zeit, bei aller notwendigen Professionalität, einfach auch mal nur menschlich, aus dem Bauch heraus zu agieren?) den Dialog mit vertrauter Tonfolge begonnen. Sie erinnern sich, wir starten den Dialog mit dem, was ein Kind kann, kennt und hoffentlich mag. Wir üben nicht, was ein Kind nicht kann, wenn wir uns gemeinsam in einen Dialog begeben.&lt;/p&gt;
-
-&lt;p&gt;Video:&lt;/p&gt;
-
-&lt;p&gt;Ich rede mit Pauline und gleichzeitig nehmen wir über die Tiefeninformation Kontakt, Gefühl auf. Sie wird immer wacher, was die vermehrten Eigenbewegungen verdeutlichen. Ihre Arme bewegen sich in den Raum streckend. In den letzten Monaten war das „Ankommen an die Uteruswand“ bei diesen Bewegungen vertraut. Es gab ihr ein Gefühl von Sicherheit, Geborgenheit, hier bist du, ein Gefühl der Form (in Form sein? aus der Form kommen?) und des Raums. (Um Mathematik zu verstehen, müssen wir Form und Raum begriffen haben, ebenso um Schreiben zu lernen!!&lt;/p&gt;
-
-&lt;p&gt;Jetzt muss alles neu, anders, mit schon Bekanntem im Gehirn verknüpft werden.&lt;/p&gt;
-
-&lt;p&gt;Die Augen bleiben noch eine ganze Weile geschlossen. Sie sendet Laute der Anstrengung. Der Übergang von Schlaf zu Wach in der Welt der Luft wurde noch nicht oft erfahren. Es bedarf Energie, einer gewissen Anstrengung, vor allem, wenn wir geweckt werden, wenn auch sehr sanft.&lt;/p&gt;
-
-&lt;p&gt;Kurze Zeit später sehen wir im Video, dass ihre Lautsprache sagt, ich fühl mich gerade nicht gut. Sie „gnattert“. Mit Tiefeninformation auf das Brustbein und singender Sprachmelodie fühlt sie sich mehr - wieder besser, kommt zurück ins Gleichgewicht. Sie zieht ihre Beine etwas beugend gegen die Schwerkraft. Ich nehme diesen Bewegung von ihr auf und verstärke sie, helfe ihr dabei. Pauline beginnt die Augen zu öffnen, als ich ihre Beine, Hüfte entgegen der Schwerkraft beuge, etwas zurück in die Haltung in Uterus. Rhythmisch und mit sprachlicher Begleitung biete ich ihr Nahrung zum Fühlen über die Sinne an.&lt;/p&gt;
-
-&lt;p&gt;Sie beginnt einen Finger an den Mund zu bringen und ich verbalisiere ihr Tun. Ihr anschließendes Recken und Stecken bewegt mich, sie heraus zu nehmen aus dem Bettchen. Dazu rolle ich sie auf meine Hand vom Rücken in die Bauchlage und nehme sie rückwärts, der Kopf hängt dabei nach vorn, an meinem Körper hoch (Handling). So wird Pauline auch in wenigen Monaten lernen, die Schritte zum aufrechten Gang zu erwerben. Über die Seite rollend auf den Bauch und zurück, zum Robben, zum Krabbeln, zum (Still-)Sitz, zum Stand, zum Laufen und Springen, zum Leben. Mit dem Kopf aus der Rückenlage senkrecht hoch zu kommen, ist eine gute Lektion für den Leistungssportler (mit gesunden Bandscheiben!), um seine Bauchmuskeln zu trainieren. Für Babys ist es aber nicht so geeignet, auch oder gerade weil sie es noch nicht mit Bewusstheit selber machen. Der Weg über die Seite bahnt andere, wichtige Bewegungsmuster.&lt;/p&gt;
-
-&lt;p&gt;Ich lege sie auf das Bett der Mutter und bringe sie in eine sicher Haltung für ihr Gleichgewicht, den Kopf stützend. Unser Augenabstand beträgt ungefähr 30- 40 cm. Hier kann Pauline am besten fixieren. Ich suche den Blickkontakt, fange ihn ein und sie folgt mir nach links und zurück. Den Kopf stütze ich vollkommen ohne Führung. Paulines Augen folgen meinen. Den Kopf dreht sie dafür allein. Werde ich zu schnell, verliert sie mich. Ich muss mich auf ihr Tempo einstellen!&lt;/p&gt;
-
-&lt;p&gt;Würde diese Erkenntnis doch mehr Einzug in den Schulalltag nehmen, bei unseren verlangsamten begabten Kindern! Für viele Kinder (Flippies) wäre es sicher nicht schlecht etwas beweglichere und „flottere Lehrer“ zu haben. Haben Sie mal darüber nachgedacht, dass nur der gut sensorische integrierte schnelle Mensch sich auf den langsamen einstellen kann, aber niemals der langsame Mensch auf den schnellen?&lt;/p&gt;
-
-&lt;p&gt;Lassen Sie sich bitte zu einer kleinen Selbsterfahrung einladen. Stellen Sie sich bitte vor Ihren Stuhl. Nehmen Sie war, wie Sie auf beiden Füßen im Kontakt zum Boden sind, die Höhe Ihre Schultern, der Abstand der Ohren zur rechten und linken Schulter. Die meisten werden sich relativ symetrisch fühlen. Schauen Sie nun seitlich hinter sich. Wie weit können Sie ohne Krafteinsatz sehen? Merken Sie sich dort ein Zeichen zur Erinnerung und probieren Sie die andere Seite.&lt;/p&gt;
-
-&lt;p&gt;Setzen Sie sich bitte vorn auf die Stuhlkante. Bewegen Sie nun ohne Kraft und Anstrengung den Kopf zu einer Seite. Wiederholen Sie dies einige Male. Welche Seite habe Sie gewählt? Zufällig diese erste? Versuchen Sie es mit der gleichen Leichtigkeit, ohne Kraft zur anderen Seite. Bleiben Sie im „Spiel“. Lassen Sie es nicht knirschen wie bei einer alten Tür! Gehen Sie mit sich in den Dialog! Haben Sie einen Unterschied festgestellt? Hat Ihr Nervensystem Ihnen den leichteren Weg zu erst vorgeschlagen? Die meisten werden mit ja antworten. Von den anderen erfahre ich bei meinen Fortbildungsveranstaltungen, zu einem hohen Prozentsatz, dass sie sich das Leben auch sonst oft schwer machen, öfter erst den steinigeren Weg wählen.&lt;/p&gt;
-
-&lt;p&gt;Ich möchte Sie etwas fragen. Was beginnt und führt die Bewegung von eben? Der Kopf oder die Augen? Probieren Sie es mit der 1.Wahlseite aus. Nicht immer nehmen alle das Gleiche war und doch gibt es hierbei eine Wahrheit. Bitte bewegen Sie jetzt ohne lange zu überlegen die Augen ohne den Kopf zu einer Seite. Schnell und wiederholen Sie es. Gut, fast allen gelingt es ohne großartig den Kopf zu beteiligen. (Langes Computertraining?) Jetzt genauso schnell, ohne groß zu denken, den Kopf zur Seite drehen, ohne die Augen. Sie werden merken, dass dies eine ganz andere Organisation ist. Eine ungewohnte, nicht auf viele Erfahrungen zurück greifende. Einige schütteln den Kopf, wurde Ihnen schwindelig? Wir haben neben den Propriozeptoren, schwerpunktmäßig an Nacken und Augen auch das Gleichgewichtssystem herausgefordert. Stellen Sie sich wieder hin, schließen Sie die Augen und vergleichen beide Körperseiten in der Länge, Breite, Erdung, Abstand der Ohren zu den Schultern. Stellen Sie Unterschiede im Vergleich zu vorher fest? Wie sieht es mit dem Drehen aus? Zur einen und zur anderen Seite?&lt;/p&gt;
-
-&lt;p&gt;Setzen Sie sich bitte wieder und bewegen Sie jetzt den Kopf zur Seite der 2. Wahl. Lassen sie ihn dort und gehen nur mit den Augen wieder zurück. Spielen Sie ca. 8 mal damit und kommen Sie wieder mit dem Kopf zur Mitte. Kurze Pause. Nun bewegen Sie die Augen zu dieser Seite und der Kopf bleibt. Sie stellen fest, Augen und Kopf können unabhängig voneinander in die beiden Richtungen gehen. Dann lassen Sie uns diese Fähigkeiten verbinden.
-Die Augen gehen von der Mitte aus zur einen Seite und der Kopf zur anderen, wieder zurück und noch einige Male. Sie treffen sich immer wieder in der Mitte. Kurze Pause. Noch ein letztes Spiel. Augen und Kopf gehen zur Seite der 2. Wahl, bleiben dort und nur die Augen gehen noch weiter zur Seite und kommen wieder zurück zum Kopf. Kopf bleibt auf der Seite. Versuchen Sie die Augen auf der waagerechten Linie seitlich weiter gehen zu lassen, sie nicht nach unten rutschen zu lassen. Jetzt bewegen Sie die Augen zur Mitte, aber der Kopf bleibt auf der Seite. Sollte jemandem dabei schwindelig werden bitte kleine Pausen selbstständig einlegen! Wem es zu einfach ist, bitte die Zunge noch rhythmisch nach vorn strecken und wieder einziehen, nicht zur Seite, nach vorn.
-Zum Schluss Augen und Kopf einsammeln und alles zur zurück zur Mitte bewegen. Wie können Sie jetzt im Sitzen nach rechts und links sehen? Ist etwas anders als zu Beginn unsere kleinen Lektion? Stellen Sie sich bitte noch einmal hin und testen Sie sich selbst. Hat sich etwas in der Qualität der Umsichtigkeit (wer kann sich umsichtig verhalten?) verändert? Der ein oder andere wird vielleicht auch merken, dass die Aufrichtung gegen die Schwerkraft anders wahrgenommen werden kann.&lt;/p&gt;
-
-&lt;p&gt;Ich sehe auch Ihr Sitzen hat sich verändert. Sie sehen noch aufmerksamer aus und wacher. Sie hatten einen Dialog mit sich selbst, über den Körper.&lt;/p&gt;
-
-&lt;p&gt;Pauline möchte kommunizieren, sie ist bereit. Aber sie braucht Bedingungen. Stellen wir die Bedingungen = Gleichgewicht her, sind wir sofort mit ihr im Dialog und lernen. Kommunizieren bedeutet immer verknüpfen von Bekanntem mit Neuem = Lernen. Daraus entsteht wieder etwas Neues. Dies braucht Raum fürs vertraut werden. Es muss benutzt werden, abgerufen, verstärkt, anerkannt und erkannt, variiert, herausgefordert und beachtet werden. Pauline kann gleich nach der Geburt in den Blickkontakt gehen. Eine Fähigkeit, die vielen Menschen heute schwer zu fallen scheint. Warum? Haben Sie keine guten Bedingungen mehr um sich ins Gleichgewicht zu bringen? Beobachten Sie mal die Menschen auf der Straße im Gespräch.&lt;/p&gt;
-
-&lt;p&gt;Pauline wurde 9 Monate ununterbrochen, zum Schluss auf engstem Raum geschaukelt. Sie sehen wie wach und zufrieden sie sich in einer „uterusähnlichen“ Situation auf meinem Arm fühlt. Menschen sind physiologische Frühgeburten und müssen weiter getragen werden. Schauen wir uns noch eine kurze Szene an, in der Pauline einen Monat alt ist. Wieder bringe ich sie für den Dialog ins Gleichgewicht. Der Kopf muss noch gestützt werden, ich wähle wieder die singende Sprache und suche den Blickkontakt. Ein Lächeln belohnt mich. Dann verlagere ich sie, Pauline kommt kurz aus dem Gleichgewicht, die Kommunikation ist unterbrochen. Sie kann sie noch nicht allein herstellen, wirkt etwas verloren. Sie ist auf „Brutpflege“ angewiesen. Bei den Fohlen auf der Weide ist es anders.
-Habe ich für sie wieder „Lernbedingungen“ hergestellt, findet wieder Kommunikation über Sprache, Körper und bereits Nachahmung statt. Ihre Mitteilsamkeit, ihre Aufmerksamkeit sehen wir noch einmal in der Hängemattensequenz. Ich glaube es wird deutlich, wie phantastisch man mit den Kleinsten spielend kommunizieren kann und es verlorenen Zeit ist, diese wichtige Phase der Lernbereitschaft nicht sinn- voll zu verbringen.&lt;/p&gt;
-
-&lt;p&gt;20 Tage später zeigt sich Pauline schon viel kompakter und noch ausdrucksstärker. Lassen wir die Bilder sprechen. Sie reagiert sofort auf meine Mimik, verbunden mit inzwischen wohlvertrauter sprachlicher Verstärkung. Kommunikation beim Anziehen. Viele Kinder ertragen es nicht auf dem Rücken liegend (schwerste Lage für das Gleichgewichtsystem!) an und ausgezogen zu werden. Es lässt sich mit etwas Erfahrung auch auf dem Schoß mit viele Spaß und Spiel bewerkstelligen. Pauline ist hungrig und müde, aber wir haben das Beste versucht draus zu machen. Mit 3 Monaten zeigt Pauline deutlicher was sie von und mit mir möchte. Ihre motorischen Fähigkeiten haben zugenommen, der Wille drückt sich eindeutiger aus. Mich erstaunte immer wieder diese unglaubliche Aufmerksamkeitsfähigkeit, die hohe Konzentration über lange Phasen hinweg. Und dies gleich von Geburt an, mit wachsender Intensität. Alles wird für Pauline zum Abenteuerspielplatz. Ihr Körper, der Spiegel, die Matte, Spielzeug usw. Alles möchten sie spielerisch be- greifen, er- fassen, langsam ver- stehen und erforschen. Wenn wir Kindern mit dieser Beachtung und Achtung begegnen, werden sie sich selbst und anderen Mitmenschen mit Achtung gegenübertreten. Eine wichtige Vorraussetzung für wahre Kommunikation.&lt;/p&gt;
-</description>
+      <description>Die Fähigkeit des Kindes zu kommunizieren Vor ca. 20 Jahren lernte ich Dr. Inge Flehmig kennen. Die bis heute andauernde berufliche und freundschaftliche Verbindung hat meine Arbeit mit Kindern und Erwachsenen und darüber hinaus meine Persönlichkeit nachhaltig herausfordernd beeinflusst. Ihr enormes Angagement, gepaart mit einem außergewöhnlichen Wissen, gab meiner damals eher intuitiven Arbeit ein kreativ gefülltes Fundament. Bei ihr hörte ich zum ersten mal von der Arbeit Jean Ayres. Als Sportlehrerin und ehemalige Leistungssportlerin konnte ich viel Erfahrung und Kenntnisse über Bewegung und den Erwerb hochqualifizierter Bewegungsabläufe sammeln.</description>
     </item>
     
     <item>
@@ -234,62 +92,11 @@ Habe ich für sie wieder „Lernbedingungen“ hergestellt, findet wieder Kommun
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/info/foerderungen/</guid>
-      <description>
-
-&lt;div class=&#34;rounded-big&#34;&gt;
-  &lt;img src=&#34;https://www.si-ullakiesling.info/si-3.jpg&#34; alt=&#34;In größtmöglicher Sicherheit mit „Sensorischer Integration im Dialog&#34; nach Ulla Kiesling®&#34; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Informieren Sie sich über verschiedene Förderungsmöglichkeiten rechtzeitig vor dem Lehrgang, damit Sie keine Fristen versäumen.
-Andere Bundesländer - andere Fördermöglichkeiten.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.weiterbildung.at/service-fuer-suchende/foerderungen/foerderungen-fuer-arbeitnehmerinnen/&#34;&gt;Überblick über Förderungen für ArbeitnehmerInnen&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.bildungsfoerderungen.at/abfrage.htm&#34;&gt;Welche Förderung trifft auf mich zu?&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.bildungsfoerderungen.at/details.php?uid=1&#34;&gt;WAFF Bildungskonto&lt;/a&gt; Gefördert werden Beschäftigte, geringfügig Beschäftigte, Neue Selbstständige; Bildungskarenz, Elternkarenz. Der Antrag kann ausschließlich nach Absolvierung der Aus- und Weiterbildung  spätestens drei Monate danach gestellt werden.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.bildungsfoerderungen.at/details.php?uid=3&#34;&gt;Projekt frech/WAFF&lt;/a&gt;: für berufstätige Wienerinnen, die sich grundlegend beruflich verändern wollen! Sofern frau maximal eine berufsbildende mittlere Schule besucht hat oder maximal über eine abgeschlossene Lehre verfügt. 90% der Kurskosten, maximal EUR 3.700,-. Der Antrag muss vor Kursbeginn genehmigt werden.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.bildungsfoerderungen.at/details.php?uid=6&#34;&gt;Projekt NOVA - Wiener WiedereinsteigerInnen&lt;/a&gt; Mit und ohne aufrechtem Dienstverhältnis - vor, während und nach der Eltern- bzw. Pflegekarenz. Nach Ende des Kurses bzw. nach abgelegter Prüfung werden die Kurskosten mit den Bildungsinstitutionen direkt verrechnet.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.waff.at&#34;&gt;WAFF&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Die &lt;a href=&#34;http://www.arbeiterkammer.at/online/bildungskarenz-1963.html&#34;&gt;Bildungskarenz&lt;/a&gt; ermöglicht ArbeitnehmerInnen, sich bei bestehendem Arbeitsverhältnis für Weiterbildung freistellen zu lassen. Diese Freistellung muss zwischen ArbeitgeberIn und ArbeitnehmerIn vereinbart werden. Auf Bildungsfreistellung besteht kein Rechtsanspruch.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ams.at&#34;&gt;AMS&lt;/a&gt; - Unter dem Punkt Bildung gibt es verschiedene Möglichkeiten der Weiterbildungsförderung für Personen, welche zur Zeit keinen Arbeitsplatz haben bzw. in Bildungskarenz gehen möchten. AMS Qualifizierungsförderung für Beschäftigte im Rahmen des europäischen Sozialfonds Qualifizierungsverbund. Qualifizierungsförderung Antragsformular bitte bei mir (Organisation) anfragen!&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.bildungsfoerderungen.at/details.php?uid=22&#34;&gt;BFB Bildungsfreibetrag&lt;/a&gt; für Unternehmen: Für Unternehmen, die ihren MitarbeiterInnen Fortbildungen zahlen.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://portal.wko.at/wk/format_detail.wk?AngID=1&amp;amp;StID=548376&amp;amp;DstID=686&amp;amp;titel=Fortbildung/,Besch%C3%A4ftigung,von,ArbeitnehmerInnen&#34;&gt;WKO&lt;/a&gt; - Förderungen für die Aus- und Weiterbildung bzw. für die Einstellung von Mitarbeitern&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.kursförderung.at&#34;&gt;www.kursförderung.at&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.help.gv.at&#34;&gt;www.help.gv.at&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.erwachsenenbildung.at&#34;&gt;www.erwachsenenbildung.at&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;bundesländer&#34;&gt;Bundesländer&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Als AK Mitglied erhalten Sie in vielen Bundesländern Geld zur Teilnahme an ausgewählten Weiterbildungskursen. Auch Arbeitslose, NotstandshilfebezieherInnen, Lehrlinge, Eltern in Karenz, geringfügig Beschäftigte und freie DienstnehmerInnen können die Unterstützung in Anspruch nehmen. &lt;a href=&#34;http://www.arbeiterkammer.at/www-192-IP-1958.html&#34;&gt;Weitere Informationen dazu finden Sie hier.&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Burgenland: Das &lt;a href=&#34;http://www.bildungsfoerderungen.at/details.php?uid=128&#34;&gt;AMS unterstützt im Rahmen des Europäischen Sozialfonds (ESF)&lt;/a&gt; Weiterbildungsmaßnahmen für spezifische Gruppen von Beschäftigten. Ziel ist es, einerseits die Beschäftigung von ArbeitnehmerInnen durch Qualifizierung zu sichern andererseits die Weiterbildungsaktivitäten für die Arbeitgeber zu erleichtern. Die Förderung erhalten kleine und mittlere Unternehmen mit einer Betriebsstätte im Burgenland.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Burgenland: &lt;a href=&#34;http://www.bildungsfoerderungen.at/details.php?uid=9&#34;&gt;Die Bildungsförderung&lt;/a&gt; dient der Förderung der Teilnahme an Weiterbildungsmaßnahmen, die Qualifikationen vermitteln, die im Berufsleben zur Anwendung gelangen oder Voraussetzung für eine Höherqualifizierung (z.B. Berufsreifeprüfung, Studienberechtigungsprüfung, Hauptschulabschlussprüfung, etc.) sind.
-Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate nach Beendigung der Weiterbildung gestellt werden.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Niederösterreich: Das Land gewährt NÖ &lt;a href=&#34;http://www.noe.gv.at/Bildung/Aus-und-Weiterbildung/Bildungsfoerderung/Bildungsfoerderung.html&#34;&gt;ArbeitnehmerInnen eine Bildungsförderung&lt;/a&gt; in der Höhe von 50 % bzw. 80 % der Kurskosten (bis zu maximal € 2.640,&amp;ndash; innerhalb von 6 Jahren ab Erstantragstellung) für berufsspezifische Weiterbildung, die zur Arbeitsplatzsicherung dient.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Kärnten: &lt;a href=&#34;http://www.wissenslandkarte.ktn.gv.at/36898_DE&#34;&gt;Auf diesem Informationsportal&lt;/a&gt; haben Sie einen vielfältigen Zugang zu Angeboten der Aus- und Weiterbildung. Die Angebote stellen die in der „Kärntner Bildungsförderung“ anerkannten Bildungsträger laufend aktualisiert für Sie zur Verfügung. Haben Sie ein Angebot gefunden, bietet Ihnen das Portal die Möglichkeit, mit einem Klick sofort zum Online-Förderantrag zu gelangen.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tirol: &lt;a href=&#34;http://www.tirol.gv.at/themen/wirtschaft-und-tourismus/arbeit/arbeitsmarktfoerderung/bildungsgeld/&#34;&gt;Bildungsgeld-update&lt;/a&gt; - Es werden Kosten für Schulungsmaßnahmen zur Aus- und Weiterbildung gefördert, die von anerkannten Bildungsträgern angeboten werden.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img class=&#34;photo-big&#34; src=&#34;https://www.si-ullakiesling.info/ulla-kiesling-praxis/ulla-kiesling-praxis-3.jpg&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Informieren Sie sich über verschiedene Förderungsmöglichkeiten rechtzeitig vor dem Lehrgang, damit Sie keine Fristen versäumen. Andere Bundesländer - andere Fördermöglichkeiten.
+ Überblick über Förderungen für ArbeitnehmerInnen
+ Welche Förderung trifft auf mich zu?
+ WAFF Bildungskonto Gefördert werden Beschäftigte, geringfügig Beschäftigte, Neue Selbstständige; Bildungskarenz, Elternkarenz. Der Antrag kann ausschließlich nach Absolvierung der Aus- und Weiterbildung  spätestens drei Monate danach gestellt werden.
+ Projekt frech/WAFF: für berufstätige Wienerinnen, die sich grundlegend beruflich verändern wollen!</description>
     </item>
     
     <item>
@@ -298,22 +105,8 @@ Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/referentinnen/kerstin-loeffler/</guid>
-      <description>
-
-&lt;p&gt;&lt;img class=&#34;referentin&#34; src=&#34;https://www.si-ullakiesling.info/referentinnen/kerstin-loeffler.jpg&#34; alt=&#34;Kerstin Löffler&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sonderschul-, Volksschul- und Schwerhörigenpädagogin; Freizeitpädagogin, Montessoripädagogin, Mediatorin, Zusatzqualifikation ” Sensorische Integration im Dialog” nach Ulla Kiesling®, Supervisorin &amp;amp; Coach&lt;/li&gt;
-&lt;li&gt;Mehrere Jahre tätig als Pädagogin in Sonderschul-, Integrations- und Vorschulklassen, sowie an einer Beratungsstelle mit den Schwerpunkten Pädagogische Begleitung von Kindern und Frühförderung&lt;/li&gt;
-&lt;li&gt;Beratung für Menschen in Konfliktsituationen und Pädagogische Beratung/Begleitung für Eltern in eigener Praxis&lt;/li&gt;
-&lt;li&gt;Referentin an Pädagogischen Hochschulen&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Verein MOVE – Bewegungsangebote für 3 bis 12 Jährige&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h4&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:kerstin@movefant.at&#34;&gt;kerstin@movefant.at&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Sonderschul-, Volksschul- und Schwerhörigenpädagogin; Freizeitpädagogin, Montessoripädagogin, Mediatorin, Zusatzqualifikation ” Sensorische Integration im Dialog” nach Ulla Kiesling®, Supervisorin &amp;amp; Coach Mehrere Jahre tätig als Pädagogin in Sonderschul-, Integrations- und Vorschulklassen, sowie an einer Beratungsstelle mit den Schwerpunkten Pädagogische Begleitung von Kindern und Frühförderung Beratung für Menschen in Konfliktsituationen und Pädagogische Beratung/Begleitung für Eltern in eigener Praxis Referentin an Pädagogischen Hochschulen
+ Verein MOVE – Bewegungsangebote für 3 bis 12 Jährige  Kontakt Email: kerstin@movefant.</description>
     </item>
     
     <item>
@@ -322,166 +115,11 @@ Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/info/links/</guid>
-      <description>
-
-&lt;h3 id=&#34;therapieangebote-institutionen-schulen&#34;&gt;Therapieangebote, Institutionen, Schulen&amp;hellip;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.si-im-dialog-ullakiesling.at&#34;&gt;www.si-im-dialog-ullakiesling.at&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;„Sensorische Integration im Dialog&amp;rdquo; nach Ulla Kiesling&lt;sup&gt;&amp;reg;&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.wabe-hamburg.de&#34;&gt;www.wabe-hamburg.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Derzeit werden in sämtlichen Wabe-Kitas in Hamburg (18) von Ulla Kiesling SI-Therapie-+ Bewegungsräume geplant und eingerichte oder nachgerüstet.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.motopaedagogik.org&#34;&gt;www.motopaedagogik.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Thesi Zak, Motopädagogische Bewegungsabenteuer für Kinder zwischen 3 und 13 Jahren an Kindergärten und Schulen u.a.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.movefant.at&#34;&gt;www.movefant.at&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Entwicklungsbegleitung im Wasser, Seilgesichertes Baumklettern, bewegt-bestärkende Ferienwochen, Zirkusgruppe, Bewegungsdschungel, begleitende Elterngespräche&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.demenz-bewegen.org&#34;&gt;www.demenz-bewegen.org&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Thesi Zak, „Bewegte Brücken bauen zu Menschen mit Demenz&amp;rdquo;. Psychomotorische Aktivierung &amp;amp; motogeragogische Angebote helfen Beziehung zu gestalten.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.bewusstseinsquelle.at&#34;&gt;www.bewusstseinsquelle.at&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Die BewusstseinsQuelle ist ein Therapie- und Schulungszentrum für ganzheitliche Methoden zur Förderung, Erhaltung und Wiederherstellung der Gesundheit.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.galemo.at&#34;&gt;www.galemo.at&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Die Galemo Schule ist eine Montessori-Schule in Klosterneuburg - Wien.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.kindertraum.at&#34;&gt;www.kindertraum.at&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Die Stiftung Kindertraum erfüllt Herzenswünsche schwer kranker und behinderter Kinder in Österreich.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;therapiematerialien-sinn-volle-spielsachen-literatur&#34;&gt;Therapiematerialien, &amp;ldquo;Sinn-volle&amp;rdquo; Spielsachen, Literatur&amp;hellip;&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.verlag-modernes-lernen.de&#34;&gt;www.verlag-modernes-lernen.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Wir bringen lernen in Bewegung®&amp;rdquo; Interessante Bücher zum Thema Sensorische Integration, Ergotherapie, Psychotherapie, Logopädie uvm. Die Bücher von Frau Kiesling „Sensorische Integration im Dialog&amp;rdquo; und „Inge Flehmig - Sensorische Integration&amp;rdquo;) sind auch in diesem Verlag erschienen. So wie ihr letztes Buch „Praxis Sensorische Integration im Dialog&amp;rdquo; mit vielen Fotos und Erfahrungsberichten von Eltern.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.landoftoys.com&#34;&gt;www.landoftoys.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Spielzeug das aus der Reihe tanzt&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Entwicklungsfördernde Spielsachen und Therapiematerialien&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.beluga-healthcare.de&#34;&gt;www.beluga-healthcare.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Innovative Hilfs- &amp;amp; Therapiemittel für Kinder, Erwachsene &amp;amp; Senioren&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ullewaeh.de&#34;&gt;www.ullewaeh.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Besondere Therapiematerialien und Therapiegeräte - wie zum Beispiel das &amp;ldquo;Kiesling-Ei&amp;rdquo; - aber auch innovative Schienen- und Befestigungssysteme bietet dieser Therapieversand.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.schaefer-lage.de&#34;&gt;www.schaefer-lage.de&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kunterbunte Welt der Geräte und Materialien für Psychomotorik, SI, Snoezelen, Erlebnispädagogik, Pro Senior &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.knetmatz.eu&#34;&gt;www.knetmatz.eu&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Besondere Spielsachen / Therapiematerialien für Lernspiele zur Förderung der Wahrnehmung und der Bewegungsförderung.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;bildungshäuser&#34;&gt;Bildungshäuser&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.franziskushaus.at&#34;&gt;www.franziskushaus.at&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Unser Seminarhaus für den Lehrgang&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;presse&#34;&gt;Presse&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://kurier.at/lebensart/gesundheit/konzentrations-oder-verhaltensstoerungen-hilfe-fuer-zappelphilipp/5.892.283/&#34;&gt;Kurier&lt;/a&gt; - Bericht von Frau Mag. Ingrid Teufl nach einem Interview mit Frau Ulla Kiesling: „Hilfe für Zappelphilipp - Wenn alle Sinne im Gleichgewicht sind, entwickeln sich Kinder richtig. Das ist erlernbar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a name=&#34;literatur&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;literatur&#34;&gt;Literatur&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&amp;amp;view=article&amp;amp;id=30:buch-si&amp;amp;catid=2:uncategorised&amp;amp;Itemid=115&#34;&gt;Kiesling, Ulla: „Sensorische Integration im Dialog”&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dortmund 2001. verlag modernes lernen, 8. Auflage&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&amp;amp;view=article&amp;amp;id=38:inge-flehmig&amp;amp;catid=2:uncategorised&amp;amp;Itemid=115&#34;&gt;Kiesling, Ulla und Klein, Jochen: &amp;ldquo;Inge Flehmig- Sensorische Integration&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dortmund 2002, verlag modernes lernen, 2. Auflage&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&amp;amp;view=article&amp;amp;id=31:buch-praxis&amp;amp;catid=2:uncategorised&amp;amp;Itemid=115&#34;&gt;Kiesling, Ulla: „Praxis &amp;lsquo;Sensorische Integration im Dialog&amp;rsquo; nach Ulla Kiesling®”&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dortmund 2008, verlag modernes lernen&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-md-4&#34;&gt;
-    &lt;img class=&#34;book&#34; src=&#34;https://www.si-ullakiesling.info/books/ulla-kiesling-buch-1.jpg&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-md-4&#34;&gt;
-    &lt;img class=&#34;book&#34; src=&#34;https://www.si-ullakiesling.info/books/ulla-kiesling-buch-2.jpg&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-md-4&#34;&gt;
-    &lt;img class=&#34;book&#34; src=&#34;https://www.si-ullakiesling.info/books/ulla-kiesling-buch-3.jpg&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;row&#34;&gt;
-  &lt;div class=&#34;col-md-4&#34;&gt;
-    &lt;img class=&#34;book&#34; src=&#34;https://www.si-ullakiesling.info/books/ulla-kiesling-buch-4.jpg&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-md-4&#34;&gt;
-    &lt;img class=&#34;book&#34; src=&#34;https://www.si-ullakiesling.info/books/ulla-kiesling-buch-5.jpg&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;col-md-4&#34;&gt;
-    &lt;img class=&#34;book&#34; src=&#34;https://www.si-ullakiesling.info/books/ulla-kiesling-buch-6.jpg&#34; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img class=&#34;photo-big&#34; src=&#34;https://www.si-ullakiesling.info/ulla-kiesling-praxis/ulla-kiesling-praxis-4.jpg&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>Therapieangebote, Institutionen, Schulen&amp;hellip;  www.si-im-dialog-ullakiesling.at
+ „Sensorische Integration im Dialog&amp;rdquo; nach Ulla Kiesling&amp;reg;  www.wabe-hamburg.de
+ Derzeit werden in sämtlichen Wabe-Kitas in Hamburg (18) von Ulla Kiesling SI-Therapie-+ Bewegungsräume geplant und eingerichte oder nachgerüstet.  www.motopaedagogik.org
+ Thesi Zak, Motopädagogische Bewegungsabenteuer für Kinder zwischen 3 und 13 Jahren an Kindergärten und Schulen u.a.  www.movefant.at
+ Entwicklungsbegleitung im Wasser, Seilgesichertes Baumklettern, bewegt-bestärkende Ferienwochen, Zirkusgruppe, Bewegungsdschungel, begleitende Elterngespräche  www.demenz-bewegen.org</description>
     </item>
     
     <item>
@@ -490,33 +128,7 @@ Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/referentinnen/matthias-bartscher/</guid>
-      <description>
-
-&lt;p&gt;&lt;img class=&#34;referentin&#34; src=&#34;https://www.si-ullakiesling.info/referentinnen/matthias-bartscher.jpg&#34; alt=&#34;Matthias Bartscher&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;praktische Beratungstätigkeit in einer Erziehungsberatungsstelle&lt;/li&gt;
-&lt;li&gt;Entwicklung und Gründung der Elternschule Hamm e.V.&lt;/li&gt;
-&lt;li&gt;freiberufliche Tätigkeit in der Weiterbildung pädagogischer Fachkräfte in Jugendhilfe und Schule mit dem Schwerpunkt „Bildungs- und Erziehungspartnerschaft zwischen Fachkräften und Eltern in Bildungseinrichtungen”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;qualifikationen&#34;&gt;Qualifikationen&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Diplompädagoge, Studium der kath. Theologie&lt;/li&gt;
-&lt;li&gt;Systemischer Berater (SG)&lt;/li&gt;
-&lt;li&gt;Antiagressivitätstrainer AAT ©&lt;/li&gt;
-&lt;li&gt;Ausbildung in „Motivational Interviewing“ (MI)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;veröffentlichungen&#34;&gt;Veröffentlichungen&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bildungs- und Erziehungspartnerschaft mit Eltern in Bildungseinrichtungen&lt;/li&gt;
-&lt;li&gt;Partizipation von Kindern und Jugendlichen&lt;/li&gt;
-&lt;li&gt;Stadtteilarbeit, Stadtteilmanagement und Gemeinwesenarbeit&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>  praktische Beratungstätigkeit in einer Erziehungsberatungsstelle Entwicklung und Gründung der Elternschule Hamm e.V. freiberufliche Tätigkeit in der Weiterbildung pädagogischer Fachkräfte in Jugendhilfe und Schule mit dem Schwerpunkt „Bildungs- und Erziehungspartnerschaft zwischen Fachkräften und Eltern in Bildungseinrichtungen”  Qualifikationen  Diplompädagoge, Studium der kath. Theologie Systemischer Berater (SG) Antiagressivitätstrainer AAT © Ausbildung in „Motivational Interviewing“ (MI)  Veröffentlichungen  Bildungs- und Erziehungspartnerschaft mit Eltern in Bildungseinrichtungen Partizipation von Kindern und Jugendlichen Stadtteilarbeit, Stadtteilmanagement und Gemeinwesenarbeit  </description>
     </item>
     
     <item>
@@ -525,22 +137,7 @@ Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/referentinnen/paul-mair/</guid>
-      <description>
-
-&lt;p&gt;&lt;img class=&#34;referentin&#34; src=&#34;https://www.si-ullakiesling.info/referentinnen/paul-mair.jpg&#34; alt=&#34;Paul Mair&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dipl. Physiotherapeut&lt;/li&gt;
-&lt;li&gt;Heilmasseur und Heilbademeister&lt;/li&gt;
-&lt;li&gt;Dipl. Shiatsupraktiker und qualified senior teacher of Shiatsu&lt;/li&gt;
-&lt;li&gt;Diplom in Traditioneller Chinesischer Medizin und Akupunktur&lt;/li&gt;
-&lt;li&gt;Geschäftsführer: Bewusstseinsquelle Therapie und Shiatsu GmbH&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h4&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:p.mair@bewusstseinsquelle.at&#34;&gt;p.mair@bewusstseinsquelle.at&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Dipl. Physiotherapeut Heilmasseur und Heilbademeister Dipl. Shiatsupraktiker und qualified senior teacher of Shiatsu Diplom in Traditioneller Chinesischer Medizin und Akupunktur Geschäftsführer: Bewusstseinsquelle Therapie und Shiatsu GmbH  Kontakt Email: p.mair@bewusstseinsquelle.at</description>
     </item>
     
     <item>
@@ -549,14 +146,7 @@ Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/stimmen/rezensionen/</guid>
-      <description>&lt;p&gt;“Wer es nicht fühlt, wird es nicht erjagen – Diesen Satz von Goethe stellt Ulla Kiesling ihrem Buch voran. Man kann ihn sowohl auf die Therapie, als auch auf die Tätigkeit der Therapeutin selbst beziehen. Sie ‘atmet’ die Sensorische Integration ein. Sie atmet sie aus. Im Buch lässt sie konsequent Eltern und Kinder zur Wort kommen. Die aufgeführten Fallbeispiele beruhen auf Tatsachen und sind nicht konstruiert. Das ist sehr wohltuend, denn dadurch ist der Band weit von jeglicher theoretischen Abhandlung entfernt. Wer mehr Theorie sucht und die Arbeitsweise der Autorin besser verstehen möchte, kann ihr erstes Werk ‘Sensorische Integration im Dialog’ heranziehen. Es ist jedoch keine Voraussetzung.&lt;/p&gt;
-
-&lt;p&gt;Für all diejenigen Leser, die Erfahrung mit der Sensorischen Integration haben, ist das Buch eine Bestätigung, was diese Therapieform bei Kindern bewirken kann. Dennoch: Wer Rezepte und Tricks sucht, der wird enttäuscht sein. Nur wer genau hinschaut und hinhört, wird viel erfahren. Die Autorin nimmt Kinder sehr ernst und respektiert sie. Sie lässt eine Vielzahl an Bildern sprechen. Nur das persönliche Erleben ihrer Arbeit wäre noch intensiver.&lt;/p&gt;
-
-&lt;p&gt;Das Buch eignet sich nicht nur für Therapeuten, sondern es ist auch für Eltern und Ärzte lesenswert. Theoretische Bücher zur SI gibt es zwar mittlerweile schon eine Reihe, aber viele Ärzte sind von der SI eher abgeschreckt. Vielleicht hilft dieses Buch hier weiter. Fazit: Mir gefällt es, dass die Autorin in einer Zeit, in der vor allem wissenschaftliche Ergebnisse zählen, die Erfahrungen von Eltern beschreibt: Hut ab. Es ist ein sehr persönliches Buch, das nach dem dialogischen Prinzip ausgerichtet ist: Die Therapeutin schafft zunächst den Rahmen, dann kommen Eltern und Kinder zu Wort.&lt;/p&gt;
-
-&lt;p&gt;Ich selbst arbeite seit über zehn Jahren mit Kindern, und zwar überwiegend nach den Prinzipien der SI. Von daher fühle ich mich durch das Unmittelbare und die Praxisbezogenheit diesesBuches sehr angesprochen.” Uwe Hosse-Hartmann, ergopraxis&lt;/p&gt;
-</description>
+      <description>“Wer es nicht fühlt, wird es nicht erjagen – Diesen Satz von Goethe stellt Ulla Kiesling ihrem Buch voran. Man kann ihn sowohl auf die Therapie, als auch auf die Tätigkeit der Therapeutin selbst beziehen. Sie ‘atmet’ die Sensorische Integration ein. Sie atmet sie aus. Im Buch lässt sie konsequent Eltern und Kinder zur Wort kommen. Die aufgeführten Fallbeispiele beruhen auf Tatsachen und sind nicht konstruiert. Das ist sehr wohltuend, denn dadurch ist der Band weit von jeglicher theoretischen Abhandlung entfernt.</description>
     </item>
     
     <item>
@@ -565,21 +155,50 @@ Die Förderung erfolgt im Nachhinein. Der Antrag muss bis spätestens 4 Monate n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.si-ullakiesling.info/referentinnen/susanne-tognino-morgner/</guid>
-      <description>
-
-&lt;p&gt;&lt;img class=&#34;referentin&#34; src=&#34;https://www.si-ullakiesling.info/referentinnen/susanne-tognino-morgner.jpg&#34; alt=&#34;Susanne Tognino-Morgner&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;staatlich anerkannte Sprachtherapeutin&lt;/li&gt;
-&lt;li&gt;SI-Therapeutin- Bobath-Therapeutin&lt;/li&gt;
-&lt;li&gt;Fort- und Weiterbildung im In- und Ausland&lt;/li&gt;
-&lt;li&gt;eigene Praxis in Hamburg&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h4&gt;
-
-&lt;p&gt;Email: &lt;a href=&#34;mailto:mail@tognino-morgner.de&#34;&gt;mail@tognino-morgner.de&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>staatlich anerkannte Sprachtherapeutin SI-Therapeutin- Bobath-Therapeutin Fort- und Weiterbildung im In- und Ausland eigene Praxis in Hamburg  Kontakt Email: mail@tognino-morgner.de</description>
+    </item>
+    
+    <item>
+      <title>Thesi Zak</title>
+      <link>https://www.si-ullakiesling.info/referentinnen/thesi-zak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.si-ullakiesling.info/referentinnen/thesi-zak/</guid>
+      <description>Jahrgang 1970, lebt in Wien, verheiratet, fünf Kinder
+ Kindergärtnerin und Horterzieherin, Didaktik und Praxislehrerin an der Bildungsanstalt für Kindergartenpädagogik; Motopädagogin und Motogeragogin; Erwachsenenbildung, Referentin an der pädagogischen Hochschule Wien, Vortragende an zahlreichen Veranstaltungen im In- und Ausland zum Thema Motopädagogik und Motogeragogik
+ Chefredakteurin der Zeitschrift des „Aktionskreis Motopädagogik Österreich”
+ Buchautorin (2008)
+ Seit 2002 als selbstständige, mobile Motopädagogin und Motogeragogin in der psychomotorischen Entwicklungsbegleitung mit Menschen zwischen 3 und 103 Jahren, in Kindergärten, Schulen, Behinderteninstitutionen, Pensionistenclubs sowie Pflege- und Pensionistenheimen sowie in der Erwachsenen Fort- und Weiterbildung tätig</description>
+    </item>
+    
+    <item>
+      <title>Ulla Kiesling</title>
+      <link>https://www.si-ullakiesling.info/referentinnen/ulla-kiesling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.si-ullakiesling.info/referentinnen/ulla-kiesling/</guid>
+      <description>staatlich geprüfte Sportlehrerin staatlich geprüfte Motopädin / Mototherapeutin Feldenkrais Practitioner Feldenkrais Assistant Trainer Lehrtherapeutin Autorin internationale Lehrtätigkeit seit über 30 Jahren: „Sensorische Intergration in Dialog” nach Ulla Kiesling® Zu Ulla Kieslings vollständiger Vita [PDF]  Kontakt Ulla Kiesling ist ausschließlich für Terminabsprachen und ein- bis fünftägige Seminare telefonisch persönlich erreichbar (Montags und Mittwochs zwischen 7 - 8 Uhr in der Früh).
+Terminabsprache zu Motoskopischer Erstbegutachtung und Therapie in Deutschland: +49 151 59204122</description>
+    </item>
+    
+    <item>
+      <title>…klein sein können, um besser groß sein zu können…</title>
+      <link>https://www.si-ullakiesling.info/stimmen/klein-um-gross/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.si-ullakiesling.info/stimmen/klein-um-gross/</guid>
+      <description>Sie zeigte uns ein an den Stärken des Kindes orientiertes therapeutisches Arbeiten im Spiel. Das Kind erfährt eine positive Verstärkung seiner Fähigkeiten und kann dadurch ein gesundes Selbstbewußtsein unter dem Motto „ich kann etwas” aufbauen.
+Dadurch gewinnt das Kind den Mut, das Interesse und die Motivation zu neuen, bisher aus Angst vor Versagen vermiedenen Schritten. Es entdeckt, daß sein selbstbestimmtes Handeln zu Erfolgserlebnissen führt, welche wiederum als Voraussetzung für neues Lernen dienen.</description>
+    </item>
+    
+    <item>
+      <title>…meine Eindrücke vom Seminar mit Ulla Kiesling</title>
+      <link>https://www.si-ullakiesling.info/stimmen/seminar-stimme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.si-ullakiesling.info/stimmen/seminar-stimme/</guid>
+      <description>Eigentlich freut es mich, noch einmal über dieses schöne Seminar zu reflektieren.
+Ich bin hingegangen als betroffene Mutter, um noch einmal Genaueres über Wahrnehmungsschwächen zu erfahren. Mein erstes „Aha-Erlebnis” hatte ich schon beim theoretischen Teil. Aufgrund neurologischer Grundkenntnisse habe ich gewusst, wie das Gleichgewicht, die Haut und die Tiefensensibilität funktionieren. Aber nach ihren (Ulla Kiesling, Anm. d. Redaktion) Erklärungen und Beispielen habe ich es zum ersten Mal richtig verstanden, begriffen … welche Bedeutung es hat, wenn ein Mensch in diesem Bereich hyper- oder hyposensibel ist … wie sich das auf sein ganzes SEIN auswirken kann.</description>
     </item>
     
   </channel>
