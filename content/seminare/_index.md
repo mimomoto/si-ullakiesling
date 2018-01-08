@@ -6,9 +6,8 @@ aliases = [
 +++
 
 #### Ried im Innkreis
-Vortrag: Wahrnehmungsstörungen
 
-Bei Kindern frühzeitig erkennen und helfen!
+<h4>Vortrag: Wahrnehmungsstörungen<br />Bei Kindern frühzeitig erkennen und helfen!</h4>
 
 Sensorische Integration ist das Zusammenspiel aller Sinne. Im integrativen Prozess werden einlaufende
 Informationen gehemmt, verstärkt und bewertet. Ulla Kiesling versteht „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>&reg;</sup> nicht als reine Technik, sondern mehr als Idee einer ganzheitlichen Sichtweise der Kindesentwicklung bzw.
@@ -28,7 +27,8 @@ Selbsterfahrungssequenzen.
 
 <br>
 
-Seminarwochenende mit Ulla Kiesling: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup>
+<h4>Seminarwochenende mit Ulla Kiesling:<br />
+„Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup></h4>
 
 Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster
 Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und
