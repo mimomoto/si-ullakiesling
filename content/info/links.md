@@ -32,7 +32,7 @@ aliases = [
 
 <iframe width="672" height="378" src="https://www.youtube.com/embed/SWwfv_y3aLE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br />
-<small>Dank an Albert Waaijenberg</small>
+<small>Dank an Albert Waaijenberg, gemacht für Stiftung Kindertraum.</small>
 
 
 ### Therapiematerialien, "Sinn-volle" Spielsachen, Literatur...
