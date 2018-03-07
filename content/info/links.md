@@ -30,6 +30,10 @@ aliases = [
   - Die Stiftung Kindertraum erfüllt Herzenswünsche schwer kranker und behinderter Kinder in Österreich.
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWwfv_y3aLE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<small>Dank an Albert Waaijenberg</small>
+
+
 ### Therapiematerialien, "Sinn-volle" Spielsachen, Literatur...
 
 - [www.verlag-modernes-lernen.de](http://www.verlag-modernes-lernen.de)
