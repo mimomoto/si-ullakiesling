@@ -24,21 +24,6 @@ TeilnehmerInnen bzw. AbsolventInnen des Lehrgangs steht in Absprache vereinzelnt
 
 <br>
 
-
-#### Großrußbach
-Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
-
-- Zeitraum: 7. Februar - 4. November 2018
-- Kurszeiten: 9.00/10.00-16.00/17.00/18.00 Uhr
-- Ort: Bildungshaus Großrußbach (bei Wien) - Schlossbergstraße 8 - A-2114 Großrußbach
-- Kosten: € 2.756
-- Ansprechpartner: Markus Gerhartinger
-- E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
-- Vormerkung ab sofort möglich, bitte nehmen Sie Kontakt zu uns auf
-- [Weitere Informationen [PDF]](/download/SI-Folder-Großrußbach-2018.pdf)
-
-<br>
-
 #### Ried
 Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
 
@@ -54,6 +39,20 @@ Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<s
 
 <br>
 
+
+#### Großrußbach
+Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
+
+- Zeitraum: 10. Juli 2019 – 8. April 2020
+- Kurszeiten: 9.00/10.00-16.00/17.00/18.00 Uhr
+- Ort: Bildungshaus Großrußbach (bei Wien) - Schlossbergstraße 8 - A-2114 Großrußbach
+- Kosten: € 2.756
+- Ansprechpartner: Markus Gerhartinger
+- E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
+- Vormerkung ab sofort möglich, bitte nehmen Sie Kontakt zu uns auf
+- Genauere Informationen zu den Kurstagen etc. vorr. im Sommer 2018
+
+<br>
 
 
 <img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-5.jpg" />

@@ -5,52 +5,46 @@ aliases = [
 ]
 +++
 
-#### Ried im Innkreis
+<h4><b>Großrußbach</b></h4>
 
-<h4>Vortrag: Wahrnehmungsstörungen<br />Bei Kindern frühzeitig erkennen und helfen!</h4>
+### Zappelphilip. Nervensäge, Angsthase, Bettnässer ... Wahrnehmungsstörungen - Wie kann man diese zunehmenden Symptome verstehen und damit umgehen?
 
-Sensorische Integration ist das Zusammenspiel aller Sinne. Im integrativen Prozess werden einlaufende
-Informationen gehemmt, verstärkt und bewertet. Ulla Kiesling versteht „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>&reg;</sup> nicht als reine Technik, sondern mehr als Idee einer ganzheitlichen Sichtweise der Kindesentwicklung bzw.
-der menschlichen Entwicklung. Lebendig und lebensnah verwebt Ulla Kiesling ein kompliziertes
-Fachgebiet; einfach und verständlich ausgedrückt mit zahlreichen Beispielen und kleinen
-Selbsterfahrungssequenzen.
+<h4>Vortrag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>&reg;</sup></h4>
 
-- Termin: Freitag, 16. Februar 2018
-- Zeit: 19:30 Uhr
-- Ort: Bildungszentrum St. Franziskus Ried im Innkreis OÖ
-- Leiterin: Ulla Kiesling
-- Kosten: VVK: € 10,00 AK: 12,00
-- Anmeldung im Franziskushaus
-- Ansprechpartnerin: Frau Kornelia Zauner
-- E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
-- Tel.: 07752/82742
+Sensorische Integration ist das Zusammenspiel aller Sinne. Im integrativen Prozess werden einlaufende Informationen gehemmt, verstärkt und bewertet. Ulla Kiesling versteht „Sensorische Integration im Dialog“ nicht als reine Technik, sondern mehr als Idee einer ganzheitlichen Sichtweise der Kindesentwicklung, bzw. der menschlichen Entwicklung.
+Lebendig und lebensnah verwebt Ulla Kiesling ein kompliziertes Fachgebiet; einfach und verständlich ausgedrückt mit zahlreichen Beispielen und kleinen Selbsterfahrungssequenzen. Es geht um die Themenfelder: Früherkennung von Wahrnehmungsstörungen, Zusammenhänge verstehen lernen, Anregungen zur praktischen Umsetzung, Bedeutung des Dialogs.
 
-<br>
+  - Termin: Dienstag, 30. Oktober 2018
+  - Zeit: 19:00 Uhr
+  - Ort: Ort: Bildungshaus Großrußbach (bei Wien) - Schlossbergstraße 8 - A-2114 Großrußbach
+  - Leiterin: Ulla Kiesling
+  - Kosten: 15,- Euro
+  - Anmeldung im Bildungshaus unter 02263/6627 oder [bildungshaus.grossrussbach@edw.or.at](mailto:bildungshaus.grossrussbach@edw.or.at)
+  - Ansprechpartner: Markus Gerhartinger
+  - E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
 
-<h4>Seminarwochenende mit Ulla Kiesling:<br />
-„Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>®</sup></h4>
+<br />
 
-Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster
-Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und
-physisch „normal” entwickeln kann, wenn seine Sinne im Gleich-gewicht sind. Sie arbeitet mit der Methode
-der „Sensorischen Integration im Dialog”, deren Ziel es ist, das Zusammenspiel aller Sinne zu fördern und
-damit ein physisches und psychisches Gesamtgleichgewicht herzustellen. Kindergarten, Schule und
-soziales Umfeld werden ebenfalls versucht mit einzubeziehen.
+<h4>Seminartag: „Sensorische Integration im Dialog“ nach Ulla Kiesling<sup>&reg;</sup></h4>
 
-- Termin: Samstag, 17. Februar bis Sonntag, 18. Februar 2018
-- Zeit: jeweils 9:00 - 16:00 Uhr
-- Ort: Bildungszentrum St. Franziskus Ried im Innkreis OÖ
-- Leiterin: Ulla Kiesling, Intern. Lehrtätigkeit
-- Teilnahmebeitrag: € 180,00
-- Anmeldung bis 5. Februar 2018
-- Ansprechpartnerin: Frau Kornelia Zauner
-- E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
-- Tel.: 07752/82742
+Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und physisch “normal” entwickeln kann, wenn seine Sinne im Gleichgewicht sind.
+Sie arbeitet mit der Methode der „Sensorischen Integration im Dialog”, deren Ziel es ist, das Zusammenspiel aller Sinne zu fördern und damit ein physisches und psychisches Gesamtgleichgewicht herzustellen. Im Dialog meint, dass nicht der Therapeut dem Kind den Weg zeigt, sondern ihm hilft, seinen eigenen Weg zu finden.
+
+
+Das Kind soll mit sich selbst in den Dialog kommen. Es beinhaltet aber auch, die Eltern mit einzubeziehen, um über ein besseres Verstehen der Signale der Kinder in oder wieder in den Dialog mit ihren Kindern zu kommen. Kindergarten, Schule und soziales Umfeld werden ebenfalls versucht mit einzubeziehen.
+
+  - Termin: Mittwoch, 31. Oktober 2018
+  - Zeit: 9:00 – 16:00 Uhr
+  - Ort: Ort: Bildungshaus Großrußbach (bei Wien) - Schlossbergstraße 8 - A-2114 Großrußbach
+  - Leiterin: Ulla Kiesling
+  - Kosten: 99,- &emsp; Mit BildungshausCard 95,-
+  - Anmeldung im Bildungshaus unter 02263/6627 oder [bildungshaus.grossrussbach@edw.or.at](mailto:bildungshaus.grossrussbach@edw.or.at)
+  - Ansprechpartner: Markus Gerhartinger
+  - E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
+  - Hinweis: Der Besuch des Vortrages am Vorabend ist Voraussetzung für die Teilnahme am Seminartag! Auf Wunsch gibt es auch die Möglichkeit im Bildungshaus von 30./31.10. zu übernachten. Bitte gegebenenfalls bei der Anmeldung bekanntgeben!
 
 
 <br />
-<a href="/lehrgang"><b>Neuer SI Lehrgangsstart am 27.  Juli 2018!</b></a>
-
 
 <div class="rounded-big">
   <img src="/si-2.jpg" alt="Spielerisch und ganz von selbst, mit „Sensorischer Integration im Dialog" nach Ulla Kiesling®" />
