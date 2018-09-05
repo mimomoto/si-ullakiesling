@@ -75,6 +75,8 @@ aliases = [
 
   - [Kiesling, Ulla und Klein, Jochen: "Inge Flehmig- Sensorische Integration"](http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&view=article&id=38:inge-flehmig&catid=2:uncategorised&Itemid=115)
     - Dortmund 2002, verlag modernes lernen, 2. Auflage
+    - [Inge Flehming im Interview: „
+Ein „bewegendes“ Leben für eine sinn-volle Kindheit“ (PDF)](/download/Flehming-Interview.pdf) -- Dr. Inge Flehmig verstarb im August 2018 im Alter von 93 Jahren
 
   - [Kiesling, Ulla: „Praxis 'Sensorische Integration im Dialog' nach Ulla Kiesling®”](http://web.archive.org/web/20160730185349/http://si-ullakiesling.info/index.php?option=com_content&view=article&id=31:buch-praxis&catid=2:uncategorised&Itemid=115)
     - Dortmund 2008, verlag modernes lernen
