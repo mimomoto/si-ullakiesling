@@ -48,7 +48,7 @@ Das Kind soll mit sich selbst in den Dialog kommen. Es beinhaltet aber auch, die
 
 
 
-<h4>2-Tages Seminar mit Ulla Kiesling in Oberösterreich</h4>
+<h4>4-Tages Seminar mit Ulla Kiesling in Oberösterreich</h4>
  
 Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und physisch "normal" entwickeln kann, wenn seine Sinne im Gleich-gewicht sind. Sie arbeitet mit der Methode der "Sensorischen Integration im Dialog", deren Ziel es ist, das Zusammenspiel aller Sinne zu fördern und damit ein physisches und psychisches Gesamtgleichgewicht herzustellen. Im Dialog meint, dass nicht der Therapeut dem Kind den Weg zeigt, sondern ihm hilft, seinen eigenen Weg zu finden. Das Kind soll mit sich selbst in den Dialog kommen.
 
@@ -58,10 +58,12 @@ Dieses Seminar wird auch als Einführungsseminar für den Lehrgang angerechnet!
 
   - Zielgruppe: TherapeutInnen, PädagogInnen und Eltern
   - Termin: Donnerstag, 25. Oktober 2018 - Sonntag, 28. Oktober 2018
-  - Zeiten: Donnerstag 15.00 - 18.00 Uhr, Freitag, 09.00 - 17.00 Uhr
+  - Zeiten: Donnerstag 15.00 - 18.00 Uhr, Freitag-Sonntag, 09.00 - 17.00 Uhr
   - Kursort: Bildungszentrum St. Franziskus Ried, Riedholzstraße 15a, 4910 Ried im Innkreis OÖ
   - Kursgebühr: 500,- Euro. Förderung durch das OÖ Bildungskontound ö-cert ist möglich
   - Anmeldung: 07752 / 82742 oder [franziskushaus@dioezese-linz.at](mailto:franziskushaus@dioezese-linz.at)
+  - [Weitere Informationen [PDF]](/download/SI-Ried-Seminar-2018.pdf)
+
 
 
 <br />
