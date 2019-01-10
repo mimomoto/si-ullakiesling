@@ -50,7 +50,7 @@ Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<s
 - Ansprechpartner: Markus Gerhartinger
 - E-Mail: [m.gerhartinger@edw.or.at](mailto:m.gerhartinger@edw.or.at)
 - Vormerkung ab sofort möglich, bitte nehmen Sie Kontakt zu uns auf
-- [Weitere Informationen [PDF]](/download/SI-Folder-Grossrussbach-2019-2.pdf)
+- [Weitere Informationen [PDF]](/download/Sesorische_Integration_Lehrgang 201920_Grossrussbach.pdf)
 
 
 <br>
