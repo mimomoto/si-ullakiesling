@@ -24,6 +24,23 @@ TeilnehmerInnen bzw. AbsolventInnen des Lehrgangs steht in Absprache vereinzelnt
 
 <br>
 
+#### Graz
+Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
+
+- Beginn: 8. Mai 2019
+- Kurszeiten: 9:00/10:00-16:00/17:00
+- Ort: SHFI, Puchstraße 85/C/1, Am Innovationspark 7, 8020 Graz
+- Kosten: € 2.756
+- Anmeldung ab sofort möglich, bitte nehmen Sie Kontakt zu uns auf
+- Ansprechpartner: Frau Claudia Hofbauer-Krug, Pädagogische Leitung
+- E-Mail: [claudia.hofbauer-krug@shfi.at](mailto:claudia.hofbauer-krug@shfi.at)
+- Telefon: +43 (0) 316 392805
+- Mobil: +43 (0) 699 15 11 00 43
+- [Weitere Informationen [PDF]](/download/SI-Folder-Graz-2019.pdf)
+
+<br /><br />
+
+
 #### Ried
 Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
 

@@ -22,6 +22,27 @@ Es geht um die Themenfelder: Früherkennung von Wahrnehmungsstörungen, Zusammen
 
 <br /><br />
 
+
+<h4>Vortrag: „Sensorische Integration im Dialog“ nach Ulla Kiesling®</h4>
+
+ - Termin: Samstag, 6. April 2019, 18:00 bis 20:30 Uhr
+ - Ort: Sozial- und Heilpädagogisches Förderungsinstitut Steiermark (SHFI), Puchstraße 85/C/1, 8020 Graz
+ - Teilnahmebeitrag: € 25,-
+ - Anmeldung ab sofort unter [office@shfi.at](mailto:office@shfi.at) (Reservierung nach Anmeldung)
+
+<br /><br />
+
+
+<h4>Seminartag: „Sensorische Integration im Dialog“ nach Ulla Kiesling®</h4>
+
+ - Termin: Sonntag, 7. April 2019, 10:00 bis max. 17:00 Uhr
+ - Ort: Sozial- und Heilpädagogisches Förderungsinstitut Steiermark (SHFI), Puchstraße 85/C/1, 8020 Graz
+ - Teilnahmebeitrag: € 99,-
+ - Hinweis: Der Besuch des Vortrages (06.04.2019 18:00 – 20:30 Uhr) ist Voraussetzung für die Teilnahme an diesem Seminartag.
+ - Anmeldung ab sofort unter [office@shfi.at](mailto:office@shfi.at) (Reservierung nach Anmeldung)
+
+<br /><br />
+
 <h4>Seminartag: „Sensorische Integration im Dialog“ nach Ulla Kiesling®</h4>
  
 Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und physisch “normal” entwickeln kann, wenn seine Sinne im Gleichgewicht sind.
