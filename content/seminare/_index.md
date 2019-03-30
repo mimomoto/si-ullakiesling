@@ -5,24 +5,6 @@ aliases = [
 ]
 +++
 
-<h4>Vortrag mit Ulla Kiesling: Zappelphilip. Nervensäge, Angsthase, Bettnässer, Wahrnehmungsstörungen... Wie kann man diese zunehmenden Symptome verstehen und damit umgehen?</h4>
-
-Sensorische Integration ist das Zusammenspiel aller Sinne. Im integrativen Prozess werden einlaufende Informationen gehemmt, verstärkt und bewertet.
-
-Ulla Kiesling versteht „Sensorische Integration im Dialog“ nicht als reine Technik, sondern mehr als Idee einer ganzheitlichen Sichtweise der Kindesentwicklung, bzw. der menschlichen Entwicklung.
-
-Lebendig und lebensnah verwebt Ulla Kiesling ein kompliziertes Fachgebiet; einfach und verständlich ausgedrückt mit zahlreichen Beispielen und kleinen Selbsterfahrungs-sequenzen.
-
-Es geht um die Themenfelder: Früherkennung von Wahrnehmungsstörungen, Zusammenhänge verstehen lernen, Anregungen zur praktischen Umsetzung, Bedeutung des Dialogs.
-
-  - Termin: Freitag, 29. März 2019, 19:00 Uhr
-  - Kursort: Bildungshaus Schloss Großrußbach, Schlossbergstraße 8, 2115 Großrußbach bei Wien
-  - Teilnahmebeitrag: € 15,-
-  - Anmeldung und Vorverkauf unter 02263/6627 oder [bildungshaus.grossrussbach@edw.or.at](mailto:bildungshaus.grossrussbach@edw.or.at)
-
-<br /><br />
-
-
 <h4>Vortrag: „Sensorische Integration im Dialog“ nach Ulla Kiesling®</h4>
 
  - Termin: Samstag, 6. April 2019, 18:00 bis 20:30 Uhr
@@ -43,20 +25,6 @@ Es geht um die Themenfelder: Früherkennung von Wahrnehmungsstörungen, Zusammen
 
 <br /><br />
 
-<h4>Seminartag: „Sensorische Integration im Dialog“ nach Ulla Kiesling®</h4>
- 
-Ulla Kieslings therapeutische Arbeit bei verhaltensauffälligen und behinderten Kindern unterschiedlichster Art und mit deren Eltern, basiert auf der Annahme, dass sich ein Kind nur dann psychisch, mental und physisch “normal” entwickeln kann, wenn seine Sinne im Gleichgewicht sind.
-
-Sie arbeitet mit der Methode der „Sensorischen Integration im Dialog”, deren Ziel es ist, das Zusammenspiel aller Sinne zu fördern und damit ein physisches und psychisches Gesamtgleichgewicht herzustellen. Im Dialog meint, dass nicht der Therapeut dem Kind den Weg zeigt, sondern ihm hilft, seinen eigenen Weg zu finden.
-
-Das Kind soll mit sich selbst in den Dialog kommen. Es beinhaltet aber auch, die Eltern mit einzubeziehen, um über ein besseres Verstehen der Signale der Kinder in oder wieder in den Dialog mit ihren Kindern zu kommen. Kindergarten, Schule und soziales Umfeld werden ebenfalls versucht mit einzubeziehen.
-
-- Termin: Samstag, 30. März 2019,  9:00 - 16:00 Uhr
-- Kursort: Bildungshaus Schloss Großrußbach, Schlossbergstraße 8, 2115 Großrußbach bei Wien
-- Teilnahmebeitrag: € 99,-; € 95,- mit BildugshausCard
-- Anmeldung und Vorverkauf unter 02263/6627 oder [bildungshaus.grossrussbach@edw.or.at](mailto:bildungshaus.grossrussbach@edw.or.at)
-
-<br /><br />
 
 <h4>Vortrag mit Ulla Kiesling „Was brauchen Kinder, um erfolgreich Kind sein zu können?“</h4>
 
@@ -75,6 +43,25 @@ Es geht darum, die Zusammenhänge verstehen zu lernen und Anregungen zur praktis
   - Anmeldung und Vorverkauf: 07752 / 82742 oder [franziskushaus@dioezese-linz.at](mailto:franziskushaus@dioezese-linz.at)
 
 
+<br />
+<br />
+
+
+<h4>Elternkabarett: Haben Sie auch die Nase voll von Erziehungsratgebern, die nicht funktionieren?</h4>
+
+Die meisten Ratgeber in Erziehungsfragen suggerieren, dass, nehme man ihre Ratschläge nur ernst genug, Eltern mit ihren Kindern glücklich und zufrieden werden können.
+
+Doch tritt die Verheißung nur allzu oft nicht ein. Eltern bleiben im alltäglichen Sumpf der ungeputzten Zähne, unaufgeräumten Kinderzimmer, schulischen Ermahnungen, dem Kampf um das Zubettgehen, das Tischabräumen, das Aufhängen der Jacken immer wieder stecken.
+
+Liegt dies an den Eltern oder den Rat-Schlägen?
+
+  - Termin: Montag, 15.4. 2019
+  - Zeit: 19.00 Uhr
+  - Kosten: VV: 8.- AK: 10.-
+  - Referent: Matthias Bartscher
+  - Ort: Franziskushaus Ried
+  - Anmeldung / Vorverkauf: 07752 / 82742 oder [franziskushaus@dioezese-linz.at](mailto:franziskushaus@dioezese-linz.at)
+  - Elternbildungsgutscheine können eingelöst werden: [www.familienkarte.at](http://www.familienkarte.at)
 
 <br />
 
