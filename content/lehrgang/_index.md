@@ -41,22 +41,6 @@ Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<s
 <br /><br />
 
 
-#### Ried
-Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
-
-- Zeitraum: 27. Juli 2018 - 1. Mai 2019
-- Kurszeiten: 9:00/10:00-16:00/17:00
-- Ort: Bildungszentrum St. Franziskus - Riedholzstraße 15a - A-4910 Ried i.I. OÖ
-- Kosten: € 2.756
-- Anmeldung ab sofort möglich, bitte nehmen Sie Kontakt zu uns auf
-- Ansprechpartner: Frau Kornelia Zauner
-- E-Mail: [franziskus@dioezese-linz.at](mailto:franziskus@dioezese-linz.at)
-- Tel.: 07752/82742
-- [Weitere Informationen [PDF]](/download/SI-Folder-Ried-2018.pdf)
-
-<br>
-
-
 #### Großrußbach
 Zusatzqualifikation „Sensorische Integration im Dialog” nach Ulla Kiesling<sup>®</sup>
 
