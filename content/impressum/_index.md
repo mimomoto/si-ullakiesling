@@ -3,7 +3,6 @@ title = "Impressum"
 +++
 
 - Verantwortlich für den Inhalt: Ulla Kiesling
-- Email: [info@si-ullakiesling.info](mailto:info@si-ullakiesling.info)
 
 ### Markenzeichen
 
@@ -17,7 +16,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 Der Schutz Ihrer persönlichen Daten und Ihrer Privatsphäre ist uns wichtig. Wir halten uns daher an die Regeln der Datenschutzgesetze. Alle Daten, die wir im Zusammenhang mit dem Kauf unserer Produkte oder ggf. einer Eintragung in unseren Newsletter erheben, werden streng vertraulich behandelt. Grundlage sind die geltenden gesetzlichen Bestimmungen:  Bundesdatenschutzgesetzes (BDSG) und Informations- und Kommunikationsdienstegesetzes (IuKDG).
 
-Alle personenbezogenen Daten werden im notwendigen Umfang (technische / kaufmännische Abwicklung) erhoben. Diese Daten werden ausschließlich an Zahlungsdienstleister weitergegeben. Diese Dienstleister haben – im Rahmen der Erfüllung ihrer Aufgaben – Zugang zu persönlichen Informationen und dürfen diese nicht für andere Zwecke verwenden. Ebenso sind diese Dienstleister ebenfalls verpflichtet, die Informationen gemäß den deutschen Datenschutzgesetzen zu behandeln. Sie erhalten jederzeit Auskunft über Ihre bei uns gespeicherten Daten, in dem Sie eine Mail an [info@si-ullakiesling.info](mailto:info@si-ullakiesling.info) schicken.
+Alle personenbezogenen Daten werden im notwendigen Umfang (technische / kaufmännische Abwicklung) erhoben. Diese Daten werden ausschließlich an Zahlungsdienstleister weitergegeben. Diese Dienstleister haben – im Rahmen der Erfüllung ihrer Aufgaben – Zugang zu persönlichen Informationen und dürfen diese nicht für andere Zwecke verwenden. Ebenso sind diese Dienstleister ebenfalls verpflichtet, die Informationen gemäß den deutschen Datenschutzgesetzen zu behandeln. Sie erhalten jederzeit Auskunft über Ihre bei uns gespeicherten Daten, in dem Sie eine Mail schicken.
 Wir weisen Sie darauf hin, dass Datenübertragung im Internet (z.B. bei E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
 ### Kontaktdaten – Impressumspflicht

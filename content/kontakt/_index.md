@@ -5,7 +5,6 @@ aliases = [
 ]
 +++
 
-- Anfragen für Seminare in Hamburg und Wien an [info@si-ullakiesling.info](mailto:info@si-ullakiesling.info)
 - Anfragen und Anmeldung für den Lehrgang:
   - Frau Kornelia Zauner, Lehrgangsleitung
   - Telefon: +43(0)7752 82 7 42
@@ -18,6 +17,7 @@ aliases = [
 
 - Für Kinderbegutachtung in Ried, kontaktieren Sie Ulla Kiesling persönlich.
 
+- Alternativ via Threema mit der Telefonnr. 004915159204122 schriftlich zu erreichen.
 
 #### Contact
 
@@ -27,5 +27,6 @@ Appointments for **Motoscopic assessments in Germany**: +49 151 59204122
 
 Enquiries for motoscopic assessment of children, „Sensorische Integration im Dialog" nach Ulla Kiesling®, and intensive weeks in **Vienna**: +43 660 4666888
 
+Alternatively reachable via Threema at 004915159204122.
 
 <img class="photo-big" src="/ulla-kiesling-praxis/ulla-kiesling-praxis-9.jpg" />
